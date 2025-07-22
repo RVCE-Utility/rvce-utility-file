@@ -4095,6 +4095,14 @@
                 "mimeType": "application/vnd.google-apps.folder",
                 "children": [
                   {
+                    "id": "1hpwm1CIfnMp95d6N0WCyv-gHS6P4CdMA",
+                    "name": "CAEG Q2 MODELS 2025_Final (1).pdf",
+                    "mimeType": "application/pdf",
+                    "children": [],
+                    "webViewLink": "https://drive.google.com/file/d/1hpwm1CIfnMp95d6N0WCyv-gHS6P4CdMA/preview",
+                    "webContentLink": "https://drive.google.com/uc?id=1hpwm1CIfnMp95d6N0WCyv-gHS6P4CdMA&export=download"
+                  },
+                  {
                     "id": "1UePacrLy4clGn0bW91-kqcWfpDJIOTo_",
                     "name": "CAEG CIE 24-25.pdf",
                     "mimeType": "application/pdf",
@@ -4798,7 +4806,7 @@
               },
               {
                 "id": "12v4KptTOdtgFf79VxjwLLGnLPwdw4wAe",
-                "name": "notes",
+                "name": "notes (CS - Stream)",
                 "mimeType": "application/vnd.google-apps.folder",
                 "children": [
                   {
@@ -4888,6 +4896,53 @@
                     "children": [],
                     "webViewLink": "https://drive.google.com/file/d/1DYPndT2z1LLxUSBd-fF2XSwINrOZaGGR/preview",
                     "webContentLink": "https://drive.google.com/uc?id=1DYPndT2z1LLxUSBd-fF2XSwINrOZaGGR&export=download"
+                  }
+                ]
+              },
+              {
+                "id": "1ehCKryY0zhfJEc5JuriZPDjoAqvLlf1P",
+                "name": "notes (EC - stream)",
+                "mimeType": "application/vnd.google-apps.folder",
+                "children": [
+                  {
+                    "id": "1bbvUBbogKo8o0KwPwYL2B8CY-gAZZ9Tm",
+                    "name": "UNIT-V_Numerical Methods (1).pdf",
+                    "mimeType": "application/pdf",
+                    "children": [],
+                    "webViewLink": "https://drive.google.com/file/d/1bbvUBbogKo8o0KwPwYL2B8CY-gAZZ9Tm/preview",
+                    "webContentLink": "https://drive.google.com/uc?id=1bbvUBbogKo8o0KwPwYL2B8CY-gAZZ9Tm&export=download"
+                  },
+                  {
+                    "id": "1W3FNDyh9eXRifD7xYQJggMZyoBEe5O-W",
+                    "name": "Unit-IV_updated Inverse Laplace Transform-2025.pdf",
+                    "mimeType": "application/pdf",
+                    "children": [],
+                    "webViewLink": "https://drive.google.com/file/d/1W3FNDyh9eXRifD7xYQJggMZyoBEe5O-W/preview",
+                    "webContentLink": "https://drive.google.com/uc?id=1W3FNDyh9eXRifD7xYQJggMZyoBEe5O-W&export=download"
+                  },
+                  {
+                    "id": "1gKdxiRu5C2eijS8sg7QUk8uzgV3VqA9m",
+                    "name": "Unit-III_ updated Laplace Transform notes.pdf",
+                    "mimeType": "application/pdf",
+                    "children": [],
+                    "webViewLink": "https://drive.google.com/file/d/1gKdxiRu5C2eijS8sg7QUk8uzgV3VqA9m/preview",
+                    "webContentLink": "https://drive.google.com/uc?id=1gKdxiRu5C2eijS8sg7QUk8uzgV3VqA9m&export=download"
+                  },
+                  {
+                    "id": "11Fb42QqK6NPihTQfrTuj31QijQxdzlVw",
+                    "name": "Unit-II_(vector integration_new).pdf",
+                    "mimeType": "application/pdf",
+                    "children": [],
+                    "webViewLink": "https://drive.google.com/file/d/11Fb42QqK6NPihTQfrTuj31QijQxdzlVw/preview",
+                    "webContentLink": "https://drive.google.com/uc?id=11Fb42QqK6NPihTQfrTuj31QijQxdzlVw&export=download"
+                  },
+                  {
+                    "id": "1f0lFq5BHXD3IarqkVO6nZmEjPlLbdDD_",
+                    "name": "Unit-I_Vector Differentiation_updated_09_06_25.pdf",
+                    "mimeType": "application/pdf",
+                    "children": [],
+                    "webViewLink": "https://drive.google.com/file/d/1f0lFq5BHXD3IarqkVO6nZmEjPlLbdDD_/preview",
+                    "webContentLink": "https://drive.google.com/uc?id=1f0lFq5BHXD3IarqkVO6nZmEjPlLbdDD_&export=download"
                   }
                 ]
               },
