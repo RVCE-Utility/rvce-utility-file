@@ -4869,6 +4869,21 @@
             "mimeType": "application/vnd.google-apps.folder",
             "children": [
               {
+                "id": "1DoKgm4uKp-Ol0HuNEdwJIBxHriKT5Pgp",
+                "name": "notes (ME - stream)",
+                "mimeType": "application/vnd.google-apps.folder",
+                "children": [
+                  {
+                    "id": "1IyggvfUDXhhlMGsAyiNUHWd152FHUs5h",
+                    "name": "Unit-III-Partial Differential Equations.pdf",
+                    "mimeType": "application/pdf",
+                    "children": [],
+                    "webViewLink": "https://drive.google.com/file/d/1IyggvfUDXhhlMGsAyiNUHWd152FHUs5h/preview",
+                    "webContentLink": "https://drive.google.com/uc?id=1IyggvfUDXhhlMGsAyiNUHWd152FHUs5h&export=download"
+                  }
+                ]
+              },
+              {
                 "id": "1cj0RGM63FJP-RSSPsyLkPtRo_WkOI83K",
                 "name": "Miscellaneous",
                 "mimeType": "application/vnd.google-apps.folder",
