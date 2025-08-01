@@ -135,6 +135,14 @@
                 "name": "notes",
                 "mimeType": "application/vnd.google-apps.folder",
                 "children": [
+                   {
+                    "id": "1GlZggLkWOO5IoMHUfh8EtiZFnseodECJ",
+                    "name": "Unit 2 Quantum computing _PY221IC.pdf",
+                    "mimeType": "application/pdf",
+                    "children": [],
+                    "webViewLink": "https://drive.google.com/file/d/1GlZggLkWOO5IoMHUfh8EtiZFnseodECJ/preview",
+                    "webContentLink": "https://drive.google.com/uc?id=1GlZggLkWOO5IoMHUfh8EtiZFnseodECJ&export=download"
+                  },
                   {
                     "id": "1bhBPA3czlqGDx1jGNCiaNOMDtA3DUldF",
                     "name": "Unit 1 Quantum Computing _22PHY22C.pdf",
@@ -4868,6 +4876,29 @@
             "name": "Maths (22MA11C)",
             "mimeType": "application/vnd.google-apps.folder",
             "children": [
+              {
+                "id": "1YRg18EdJuCXUTaiBKzZDBKHX11qgnEkq",
+                "name": "QP (EC - stream)",
+                "mimeType": "application/vnd.google-apps.folder",
+                "children": [
+                  {
+                    "id": "1nup1e7EDkDSwyAcndCOGuaTWPtqw6npy",
+                    "name": "Sem2-OldSEEpaperandscheme.pdf",
+                    "mimeType": "application/pdf",
+                    "children": [],
+                    "webViewLink": "https://drive.google.com/file/d/1nup1e7EDkDSwyAcndCOGuaTWPtqw6npy/preview",
+                    "webContentLink": "https://drive.google.com/uc?id=1nup1e7EDkDSwyAcndCOGuaTWPtqw6npy&export=download"
+                  },
+                  {
+                    "id": "1PxnjkStz_rvLRysWXFDFmgMRXu0mhYRt",
+                    "name": "MA221TA-PRACTICEPROBLEMS.pdf",
+                    "mimeType": "application/pdf",
+                    "children": [],
+                    "webViewLink": "https://drive.google.com/file/d/1PxnjkStz_rvLRysWXFDFmgMRXu0mhYRt/preview",
+                    "webContentLink": "https://drive.google.com/uc?id=1PxnjkStz_rvLRysWXFDFmgMRXu0mhYRt&export=download"
+                  }
+                ]
+              },
               {
                 "id": "1DoKgm4uKp-Ol0HuNEdwJIBxHriKT5Pgp",
                 "name": "notes (ME - stream)",
