@@ -5280,7 +5280,7 @@
     "children": [
       {
         "id": "1vFKT6h8rquylqB5qXSCSMReZgEOJRPIj",
-        "name": "3 - Sem",
+        "name": "3-Sem-CSE",
         "mimeType": "application/vnd.google-apps.folder",
         "children": [
           {
@@ -6665,6 +6665,305 @@
                 "children": [],
                 "webViewLink": "https://drive.google.com/file/d/1JrmZ_44ZQuG1_uNFgATC1Hjr0-aSUGC-/preview",
                 "webContentLink": "https://drive.google.com/uc?id=1JrmZ_44ZQuG1_uNFgATC1Hjr0-aSUGC-&export=download"
+              }
+            ]
+          }
+        ]
+      },
+       {
+        "id": "1ZmtfPG1zn5w7YwJOFTzPUesZw2dpP5iE",
+        "name": "3-Sem-ECE",
+        "mimeType": "application/vnd.google-apps.folder",
+        "children": [
+          {
+            "id": "1cGQ9fb8oPZxnn2EYXMB3PS9mMf7T5f1H",
+            "name": "digital",
+            "mimeType": "application/vnd.google-apps.folder",
+            "children": [
+              {
+                "id": "1_2LSK__yMeyJfp4y7XvxZMFGoTz9fHJo",
+                "name": "intro to verilog.pdf",
+                "mimeType": "application/pdf",
+                "children": [],
+                "webViewLink": "https://drive.google.com/file/d/1_2LSK__yMeyJfp4y7XvxZMFGoTz9fHJo/preview",
+                "webContentLink": "https://drive.google.com/uc?id=1_2LSK__yMeyJfp4y7XvxZMFGoTz9fHJo&export=download"
+              },
+              {
+                "id": "1MzLCQt2SbI3pf1LhBZVQKusJZgONDSI_",
+                "name": "unit2_combinational circuit design.pdf",
+                "mimeType": "application/pdf",
+                "children": [],
+                "webViewLink": "https://drive.google.com/file/d/1MzLCQt2SbI3pf1LhBZVQKusJZgONDSI_/preview",
+                "webContentLink": "https://drive.google.com/uc?id=1MzLCQt2SbI3pf1LhBZVQKusJZgONDSI_&export=download"
+              },
+              {
+                "id": "13SAs8u4iNoO_Z9TlvXv6FsBh057Z36pt",
+                "name": "unit1_verilog.pdf",
+                "mimeType": "application/pdf",
+                "children": [],
+                "webViewLink": "https://drive.google.com/file/d/13SAs8u4iNoO_Z9TlvXv6FsBh057Z36pt/preview",
+                "webContentLink": "https://drive.google.com/uc?id=13SAs8u4iNoO_Z9TlvXv6FsBh057Z36pt&export=download"
+              },
+              {
+                "id": "1OlG0iSzaxIjsMPXxntmISiPplu8RnEK1",
+                "name": "3rd Sem ADDC Lab Manual-2022.pdf",
+                "mimeType": "application/pdf",
+                "children": [],
+                "webViewLink": "https://drive.google.com/file/d/1OlG0iSzaxIjsMPXxntmISiPplu8RnEK1/preview",
+                "webContentLink": "https://drive.google.com/uc?id=1OlG0iSzaxIjsMPXxntmISiPplu8RnEK1&export=download"
+              },
+              {
+                "id": "17x01spOO0qqMPqpi6rFi5DWxNimhSNvk",
+                "name": "Exmpt 1 to 3_251014_174013.pdf",
+                "mimeType": "application/pdf",
+                "children": [],
+                "webViewLink": "https://drive.google.com/file/d/17x01spOO0qqMPqpi6rFi5DWxNimhSNvk/preview",
+                "webContentLink": "https://drive.google.com/uc?id=17x01spOO0qqMPqpi6rFi5DWxNimhSNvk&export=download"
+              },
+              {
+                "id": "1INkBVmeH8dJbsN0EslRgSS7m67z0oPFk",
+                "name": "Introduction to Verilog Design.pdf",
+                "mimeType": "application/pdf",
+                "children": [],
+                "webViewLink": "https://drive.google.com/file/d/1INkBVmeH8dJbsN0EslRgSS7m67z0oPFk/preview",
+                "webContentLink": "https://drive.google.com/uc?id=1INkBVmeH8dJbsN0EslRgSS7m67z0oPFk&export=download"
+              },
+              {
+                "id": "19iCYerMu4dFtpnKD3vA17l_O-PalvIiT",
+                "name": "complement operations in binary number system.pdf",
+                "mimeType": "application/pdf",
+                "children": [],
+                "webViewLink": "https://drive.google.com/file/d/19iCYerMu4dFtpnKD3vA17l_O-PalvIiT/preview",
+                "webContentLink": "https://drive.google.com/uc?id=19iCYerMu4dFtpnKD3vA17l_O-PalvIiT&export=download"
+              }
+            ]
+          },
+          {
+            "id": "103SB1D3bfU7J46ToSGCkRuQDEMdcjy2q",
+            "name": "analog",
+            "mimeType": "application/vnd.google-apps.folder",
+            "children": [
+              {
+                "id": "1XVPyexwuRj-BMQRFBjPZ2pPKM6nPT08x",
+                "name": "unit2_mosfets_handwritten notes.pdf",
+                "mimeType": "application/pdf",
+                "children": [],
+                "webViewLink": "https://drive.google.com/file/d/1XVPyexwuRj-BMQRFBjPZ2pPKM6nPT08x/preview",
+                "webContentLink": "https://drive.google.com/uc?id=1XVPyexwuRj-BMQRFBjPZ2pPKM6nPT08x&export=download"
+              },
+              {
+                "id": "1F8Xu8oi40X2SQGmT6hu9hLLhQtebsMtN",
+                "name": "sedra smith.pdf",
+                "mimeType": "application/pdf",
+                "children": [],
+                "webViewLink": "https://drive.google.com/file/d/1F8Xu8oi40X2SQGmT6hu9hLLhQtebsMtN/preview",
+                "webContentLink": "https://drive.google.com/uc?id=1F8Xu8oi40X2SQGmT6hu9hLLhQtebsMtN&export=download"
+              },
+              {
+                "id": "1vtignZb2x8JmsvEyl_qv80iZv7x2jalZ",
+                "name": "Mosfet - 2.pdf",
+                "mimeType": "application/pdf",
+                "children": [],
+                "webViewLink": "https://drive.google.com/file/d/1vtignZb2x8JmsvEyl_qv80iZv7x2jalZ/preview",
+                "webContentLink": "https://drive.google.com/uc?id=1vtignZb2x8JmsvEyl_qv80iZv7x2jalZ&export=download"
+              },
+              {
+                "id": "111Fy5VHfx2fRpSEEBRc2bGYeBHdYMn8v",
+                "name": "opamps.pdf",
+                "mimeType": "application/pdf",
+                "children": [],
+                "webViewLink": "https://drive.google.com/file/d/111Fy5VHfx2fRpSEEBRc2bGYeBHdYMn8v/preview",
+                "webContentLink": "https://drive.google.com/uc?id=111Fy5VHfx2fRpSEEBRc2bGYeBHdYMn8v&export=download"
+              },
+              {
+                "id": "11bWRyYtL_cLF4PkCA3GY_560zQ1KEMAf",
+                "name": "previous year Quiz & test 1 paper.pdf",
+                "mimeType": "application/pdf",
+                "children": [],
+                "webViewLink": "https://drive.google.com/file/d/11bWRyYtL_cLF4PkCA3GY_560zQ1KEMAf/preview",
+                "webContentLink": "https://drive.google.com/uc?id=11bWRyYtL_cLF4PkCA3GY_560zQ1KEMAf&export=download"
+              },
+              {
+                "id": "1Skas3aco97HJfPeAP2B-nTtCHoqfFBYl",
+                "name": "AMC_UNIT_1.pdf",
+                "mimeType": "application/pdf",
+                "children": [],
+                "webViewLink": "https://drive.google.com/file/d/1Skas3aco97HJfPeAP2B-nTtCHoqfFBYl/preview",
+                "webContentLink": "https://drive.google.com/uc?id=1Skas3aco97HJfPeAP2B-nTtCHoqfFBYl&export=download"
+              },
+              {
+                "id": "1Fj4EESLwxXw5Ckz10syMmoOjDGzz6Y00",
+                "name": "AMC_unit_2.pdf",
+                "mimeType": "application/pdf",
+                "children": [],
+                "webViewLink": "https://drive.google.com/file/d/1Fj4EESLwxXw5Ckz10syMmoOjDGzz6Y00/preview",
+                "webContentLink": "https://drive.google.com/uc?id=1Fj4EESLwxXw5Ckz10syMmoOjDGzz6Y00&export=download"
+              }
+            ]
+          },
+          {
+            "id": "1w6E4bzQmxinJC7XUA-37PsH0UtI78S1T",
+            "name": "math",
+            "mimeType": "application/vnd.google-apps.folder",
+            "children": [
+              {
+                "id": "1TH4iWrCTeOudyNuJ-6LWVZb3Le5adMum",
+                "name": "unit 5_pdf notes.pdf",
+                "mimeType": "application/pdf",
+                "children": [],
+                "webViewLink": "https://drive.google.com/file/d/1TH4iWrCTeOudyNuJ-6LWVZb3Le5adMum/preview",
+                "webContentLink": "https://drive.google.com/uc?id=1TH4iWrCTeOudyNuJ-6LWVZb3Le5adMum&export=download"
+              },
+              {
+                "id": "18zn2nQO5Lw5tsWEtZk8uRV10YcHcUE0I",
+                "name": "Unit II Linear Algebra II-MAT231AT.pdf",
+                "mimeType": "application/pdf",
+                "children": [],
+                "webViewLink": "https://drive.google.com/file/d/18zn2nQO5Lw5tsWEtZk8uRV10YcHcUE0I/preview",
+                "webContentLink": "https://drive.google.com/uc?id=18zn2nQO5Lw5tsWEtZk8uRV10YcHcUE0I&export=download"
+              },
+              {
+                "id": "1pJHHvY1vlQNgCb3E4NepdXG6aUdaYWF4",
+                "name": "Unit I Linear Algebra I-MAT231AT.pdf",
+                "mimeType": "application/pdf",
+                "children": [],
+                "webViewLink": "https://drive.google.com/file/d/1pJHHvY1vlQNgCb3E4NepdXG6aUdaYWF4/preview",
+                "webContentLink": "https://drive.google.com/uc?id=1pJHHvY1vlQNgCb3E4NepdXG6aUdaYWF4&export=download"
+              },
+              {
+                "id": "1CkjSqAnRBzNQ-_l_RRyqFciTnaIhSzKm",
+                "name": "unit 5_tutorials.pdf",
+                "mimeType": "application/pdf",
+                "children": [],
+                "webViewLink": "https://drive.google.com/file/d/1CkjSqAnRBzNQ-_l_RRyqFciTnaIhSzKm/preview",
+                "webContentLink": "https://drive.google.com/uc?id=1CkjSqAnRBzNQ-_l_RRyqFciTnaIhSzKm&export=download"
+              }
+            ]
+          },
+          {
+            "id": "1QQlhpSjGGG1HM8d55o8lZmjimDYwOFkx",
+            "name": "network",
+            "mimeType": "application/vnd.google-apps.folder",
+            "children": [
+              {
+                "id": "1IlIsvBO4r8QcXesv8JQbvSz5TFoh2iQC",
+                "name": "source transformation.pdf",
+                "mimeType": "application/pdf",
+                "children": [],
+                "webViewLink": "https://drive.google.com/file/d/1IlIsvBO4r8QcXesv8JQbvSz5TFoh2iQC/preview",
+                "webContentLink": "https://drive.google.com/uc?id=1IlIsvBO4r8QcXesv8JQbvSz5TFoh2iQC&export=download"
+              },
+              {
+                "id": "1nUmuoig2qqcm0AXT2SNICll2L1gAj7AD",
+                "name": "star delta transformatio.pdf",
+                "mimeType": "application/pdf",
+                "children": [],
+                "webViewLink": "https://drive.google.com/file/d/1nUmuoig2qqcm0AXT2SNICll2L1gAj7AD/preview",
+                "webContentLink": "https://drive.google.com/uc?id=1nUmuoig2qqcm0AXT2SNICll2L1gAj7AD&export=download"
+              },
+              {
+                "id": "1Ed5JTystEJ_1xHkw5JPFgBlTs7snfHxS",
+                "name": "tut u3 solns.pdf",
+                "mimeType": "application/pdf",
+                "children": [],
+                "webViewLink": "https://drive.google.com/file/d/1Ed5JTystEJ_1xHkw5JPFgBlTs7snfHxS/preview",
+                "webContentLink": "https://drive.google.com/uc?id=1Ed5JTystEJ_1xHkw5JPFgBlTs7snfHxS&export=download"
+              },
+              {
+                "id": "1JmX1htsetEXMw_rZkcEv0rtqDuSJYxIQ",
+                "name": "tut u3.pdf",
+                "mimeType": "application/pdf",
+                "children": [],
+                "webViewLink": "https://drive.google.com/file/d/1JmX1htsetEXMw_rZkcEv0rtqDuSJYxIQ/preview",
+                "webContentLink": "https://drive.google.com/uc?id=1JmX1htsetEXMw_rZkcEv0rtqDuSJYxIQ&export=download"
+              },
+              {
+                "id": "1yN_4tVTZPHPw7qv05QLTPlgDfBuc_1jC",
+                "name": "node analysis.pdf",
+                "mimeType": "application/pdf",
+                "children": [],
+                "webViewLink": "https://drive.google.com/file/d/1yN_4tVTZPHPw7qv05QLTPlgDfBuc_1jC/preview",
+                "webContentLink": "https://drive.google.com/uc?id=1yN_4tVTZPHPw7qv05QLTPlgDfBuc_1jC&export=download"
+              },
+              {
+                "id": "1OdHMfkaLwuO3NJqH4mN-7gn9pAwEar46",
+                "name": "mesh analysis.pdf",
+                "mimeType": "application/pdf",
+                "children": [],
+                "webViewLink": "https://drive.google.com/file/d/1OdHMfkaLwuO3NJqH4mN-7gn9pAwEar46/preview",
+                "webContentLink": "https://drive.google.com/uc?id=1OdHMfkaLwuO3NJqH4mN-7gn9pAwEar46&export=download"
+              },
+              {
+                "id": "1ckoOSwadztFjDTbj94febC40UuHvLiBo",
+                "name": "na1.pdf",
+                "mimeType": "application/pdf",
+                "children": [],
+                "webViewLink": "https://drive.google.com/file/d/1ckoOSwadztFjDTbj94febC40UuHvLiBo/preview",
+                "webContentLink": "https://drive.google.com/uc?id=1ckoOSwadztFjDTbj94febC40UuHvLiBo&export=download"
+              },
+              {
+                "id": "1-AkeaHiulAUzCpeXQV_0Ma7GmQZoT37H",
+                "name": "node analysis extra ques.pdf",
+                "mimeType": "application/pdf",
+                "children": [],
+                "webViewLink": "https://drive.google.com/file/d/1-AkeaHiulAUzCpeXQV_0Ma7GmQZoT37H/preview",
+                "webContentLink": "https://drive.google.com/uc?id=1-AkeaHiulAUzCpeXQV_0Ma7GmQZoT37H&export=download"
+              },
+              {
+                "id": "1x0GMHg-0uIaN0OzF4dhbZk8vZUayVgOC",
+                "name": "tut1a.pdf",
+                "mimeType": "application/pdf",
+                "children": [],
+                "webViewLink": "https://drive.google.com/file/d/1x0GMHg-0uIaN0OzF4dhbZk8vZUayVgOC/preview",
+                "webContentLink": "https://drive.google.com/uc?id=1x0GMHg-0uIaN0OzF4dhbZk8vZUayVgOC&export=download"
+              },
+              {
+                "id": "1_JwOcpPSsxoeHjTngt-gGY5E0GxLrhbX",
+                "name": "tut0.pdf",
+                "mimeType": "application/pdf",
+                "children": [],
+                "webViewLink": "https://drive.google.com/file/d/1_JwOcpPSsxoeHjTngt-gGY5E0GxLrhbX/preview",
+                "webContentLink": "https://drive.google.com/uc?id=1_JwOcpPSsxoeHjTngt-gGY5E0GxLrhbX&export=download"
+              },
+              {
+                "id": "1LgEJvfz9AL6tYaPI1RzA402bnXz4J01Q",
+                "name": "node analysis gate ques.pdf",
+                "mimeType": "application/pdf",
+                "children": [],
+                "webViewLink": "https://drive.google.com/file/d/1LgEJvfz9AL6tYaPI1RzA402bnXz4J01Q/preview",
+                "webContentLink": "https://drive.google.com/uc?id=1LgEJvfz9AL6tYaPI1RzA402bnXz4J01Q&export=download"
+              },
+              {
+                "id": "1IWhPpsYDQYt8cy9Y2z1LYY-29OOiO98s",
+                "name": "tut1b.pdf",
+                "mimeType": "application/pdf",
+                "children": [],
+                "webViewLink": "https://drive.google.com/file/d/1IWhPpsYDQYt8cy9Y2z1LYY-29OOiO98s/preview",
+                "webContentLink": "https://drive.google.com/uc?id=1IWhPpsYDQYt8cy9Y2z1LYY-29OOiO98s&export=download"
+              },
+              {
+                "id": "1ftK7VjHVjJ3-2Ce28ejaSCmz8TgXrkGJ",
+                "name": "RC CIRCUITS.pdf",
+                "mimeType": "application/pdf",
+                "children": [],
+                "webViewLink": "https://drive.google.com/file/d/1ftK7VjHVjJ3-2Ce28ejaSCmz8TgXrkGJ/preview",
+                "webContentLink": "https://drive.google.com/uc?id=1ftK7VjHVjJ3-2Ce28ejaSCmz8TgXrkGJ&export=download"
+              },
+              {
+                "id": "1QjSAyc5hkFsMcfFXTi9zj_MQNKOFvyg5",
+                "name": "chapter-1-Circuit-concepts-and-Network-Specification-Techniques.pdf",
+                "mimeType": "application/pdf",
+                "children": [],
+                "webViewLink": "https://drive.google.com/file/d/1QjSAyc5hkFsMcfFXTi9zj_MQNKOFvyg5/preview",
+                "webContentLink": "https://drive.google.com/uc?id=1QjSAyc5hkFsMcfFXTi9zj_MQNKOFvyg5&export=download"
+              },
+              {
+                "id": "1mIuBwtqfNCrqGEhQG3NFLoFG2QrLXnIT",
+                "name": "ac source problems.pdf",
+                "mimeType": "application/pdf",
+                "children": [],
+                "webViewLink": "https://drive.google.com/file/d/1mIuBwtqfNCrqGEhQG3NFLoFG2QrLXnIT/preview",
+                "webContentLink": "https://drive.google.com/uc?id=1mIuBwtqfNCrqGEhQG3NFLoFG2QrLXnIT&export=download"
               }
             ]
           }
