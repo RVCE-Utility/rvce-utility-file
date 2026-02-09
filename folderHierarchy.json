@@ -2635,36 +2635,98 @@
                 "mimeType": "application/vnd.google-apps.folder",
                 "children": [
                   {
-                    "id": "1WMt6k0-2JbYRp6c2BTE85k-A5Qd4JEkG",
-                    "name": "unit 4.pdf",
-                    "mimeType": "application/pdf",
-                    "children": [],
-                    "webViewLink": "https://drive.google.com/file/d/1WMt6k0-2JbYRp6c2BTE85k-A5Qd4JEkG/preview",
-                    "webContentLink": "https://drive.google.com/uc?id=1WMt6k0-2JbYRp6c2BTE85k-A5Qd4JEkG&export=download"
+                    "id": "1FO4PNP7GOSmQMcCohKlELep10oTYBEVx",
+                    "name": "2022 Schema",
+                    "mimeType": "application/vnd.google-apps.folder",
+                    "children": [
+                      {
+                        "id": "1OBCDzy0oVz7cRKLJBamgw86hJICSs7Kf",
+                        "name": "unit 1.pdf",
+                        "mimeType": "application/pdf",
+                        "children": [],
+                        "webViewLink": "https://drive.google.com/file/d/1OBCDzy0oVz7cRKLJBamgw86hJICSs7Kf/preview",
+                        "webContentLink": "https://drive.google.com/uc?id=1OBCDzy0oVz7cRKLJBamgw86hJICSs7Kf&export=download"
+                      },
+                      {
+                        "id": "1WMt6k0-2JbYRp6c2BTE85k-A5Qd4JEkG",
+                        "name": "unit 4.pdf",
+                        "mimeType": "application/pdf",
+                        "children": [],
+                        "webViewLink": "https://drive.google.com/file/d/1WMt6k0-2JbYRp6c2BTE85k-A5Qd4JEkG/preview",
+                        "webContentLink": "https://drive.google.com/uc?id=1WMt6k0-2JbYRp6c2BTE85k-A5Qd4JEkG&export=download"
+                      },
+                      {
+                        "id": "1SXwtlNB7o8Oed8VHVGKS132PME52ebTE",
+                        "name": "unit 5.pdf",
+                        "mimeType": "application/pdf",
+                        "children": [],
+                        "webViewLink": "https://drive.google.com/file/d/1SXwtlNB7o8Oed8VHVGKS132PME52ebTE/preview",
+                        "webContentLink": "https://drive.google.com/uc?id=1SXwtlNB7o8Oed8VHVGKS132PME52ebTE&export=download"
+                      },
+                      {
+                        "id": "1Gt9_O1dw3DBhuW8sOmEm2o_ERfLaUg4K",
+                        "name": "unit 2.pdf",
+                        "mimeType": "application/pdf",
+                        "children": [],
+                        "webViewLink": "https://drive.google.com/file/d/1Gt9_O1dw3DBhuW8sOmEm2o_ERfLaUg4K/preview",
+                        "webContentLink": "https://drive.google.com/uc?id=1Gt9_O1dw3DBhuW8sOmEm2o_ERfLaUg4K&export=download"
+                      },
+                      {
+                        "id": "1QF-tt6OzG_VoeI2xIsM07OU1T24URGv0",
+                        "name": "unit 3.pdf",
+                        "mimeType": "application/pdf",
+                        "children": [],
+                        "webViewLink": "https://drive.google.com/file/d/1QF-tt6OzG_VoeI2xIsM07OU1T24URGv0/preview",
+                        "webContentLink": "https://drive.google.com/uc?id=1QF-tt6OzG_VoeI2xIsM07OU1T24URGv0&export=download"
+                      }
+                    ]
                   },
                   {
-                    "id": "1SXwtlNB7o8Oed8VHVGKS132PME52ebTE",
-                    "name": "unit 5.pdf",
-                    "mimeType": "application/pdf",
-                    "children": [],
-                    "webViewLink": "https://drive.google.com/file/d/1SXwtlNB7o8Oed8VHVGKS132PME52ebTE/preview",
-                    "webContentLink": "https://drive.google.com/uc?id=1SXwtlNB7o8Oed8VHVGKS132PME52ebTE&export=download"
-                  },
-                  {
-                    "id": "1OBCDzy0oVz7cRKLJBamgw86hJICSs7Kf",
-                    "name": "unit 1.pdf",
-                    "mimeType": "application/pdf",
-                    "children": [],
-                    "webViewLink": "https://drive.google.com/file/d/1OBCDzy0oVz7cRKLJBamgw86hJICSs7Kf/preview",
-                    "webContentLink": "https://drive.google.com/uc?id=1OBCDzy0oVz7cRKLJBamgw86hJICSs7Kf&export=download"
-                  },
-                  {
-                    "id": "1Gt9_O1dw3DBhuW8sOmEm2o_ERfLaUg4K",
-                    "name": "unit 2.pdf",
-                    "mimeType": "application/pdf",
-                    "children": [],
-                    "webViewLink": "https://drive.google.com/file/d/1Gt9_O1dw3DBhuW8sOmEm2o_ERfLaUg4K/preview",
-                    "webContentLink": "https://drive.google.com/uc?id=1Gt9_O1dw3DBhuW8sOmEm2o_ERfLaUg4K&export=download"
+                    "id": "1Hsw_pFd52IlyJbWRht66wra2-BImYli5",
+                    "name": "2025 Schema",
+                    "mimeType": "application/vnd.google-apps.folder",
+                    "children": [
+                      {
+                        "id": "12ReWq8zVfdnlsOI93i-d3T0sgefvaaJr",
+                        "name": "Unit 5.pdf",
+                        "mimeType": "application/pdf",
+                        "children": [],
+                        "webViewLink": "https://drive.google.com/file/d/12ReWq8zVfdnlsOI93i-d3T0sgefvaaJr/preview",
+                        "webContentLink": "https://drive.google.com/uc?id=12ReWq8zVfdnlsOI93i-d3T0sgefvaaJr&export=download"
+                      },
+                      {
+                        "id": "1l3Q2YOOApOT5bJ1vrRlTp3Xd8_yn0vMB",
+                        "name": "Unit 4.pdf",
+                        "mimeType": "application/pdf",
+                        "children": [],
+                        "webViewLink": "https://drive.google.com/file/d/1l3Q2YOOApOT5bJ1vrRlTp3Xd8_yn0vMB/preview",
+                        "webContentLink": "https://drive.google.com/uc?id=1l3Q2YOOApOT5bJ1vrRlTp3Xd8_yn0vMB&export=download"
+                      },
+                      {
+                        "id": "1OfETv5dN5hLCjURCB5LROFIBFMSZ1F2r",
+                        "name": "Unit 3.pdf",
+                        "mimeType": "application/pdf",
+                        "children": [],
+                        "webViewLink": "https://drive.google.com/file/d/1OfETv5dN5hLCjURCB5LROFIBFMSZ1F2r/preview",
+                        "webContentLink": "https://drive.google.com/uc?id=1OfETv5dN5hLCjURCB5LROFIBFMSZ1F2r&export=download"
+                      },
+                      {
+                        "id": "19HUBU5uVRLZV6mhwCCRX8FhZ2ejhynxP",
+                        "name": "Unit 2.pdf",
+                        "mimeType": "application/pdf",
+                        "children": [],
+                        "webViewLink": "https://drive.google.com/file/d/19HUBU5uVRLZV6mhwCCRX8FhZ2ejhynxP/preview",
+                        "webContentLink": "https://drive.google.com/uc?id=19HUBU5uVRLZV6mhwCCRX8FhZ2ejhynxP&export=download"
+                      },
+                      {
+                        "id": "1VHjaHj9x77gXE_7sc1BbSGo876b5Xj6l",
+                        "name": "Unit 1.pdf",
+                        "mimeType": "application/pdf",
+                        "children": [],
+                        "webViewLink": "https://drive.google.com/file/d/1VHjaHj9x77gXE_7sc1BbSGo876b5Xj6l/preview",
+                        "webContentLink": "https://drive.google.com/uc?id=1VHjaHj9x77gXE_7sc1BbSGo876b5Xj6l&export=download"
+                      }
+                    ]
                   },
                   {
                     "id": "1HG4Vf4VX-6S5oaIDg7y20G9nRN9My4CO",
@@ -2681,14 +2743,6 @@
                     "children": [],
                     "webViewLink": "https://drive.google.com/file/d/1f4BppB8fSVFZXjagt9urzWq3FQtQHNll/preview",
                     "webContentLink": "https://drive.google.com/uc?id=1f4BppB8fSVFZXjagt9urzWq3FQtQHNll&export=download"
-                  },
-                  {
-                    "id": "1QF-tt6OzG_VoeI2xIsM07OU1T24URGv0",
-                    "name": "unit 3.pdf",
-                    "mimeType": "application/pdf",
-                    "children": [],
-                    "webViewLink": "https://drive.google.com/file/d/1QF-tt6OzG_VoeI2xIsM07OU1T24URGv0/preview",
-                    "webContentLink": "https://drive.google.com/uc?id=1QF-tt6OzG_VoeI2xIsM07OU1T24URGv0&export=download"
                   }
                 ]
               },
@@ -3935,393 +3989,454 @@
             "mimeType": "application/vnd.google-apps.folder",
             "children": [
               {
-                "id": "123m2heDm1FAYaLlRNJUGPeEq06kGVApK",
-                "name": "Lab",
+                "id": "1KKtur82cqDYZx3K_ohIPj9GiVuWuGMKj",
+                "name": "2025 Schema- Mechanical (ME113ATE)",
                 "mimeType": "application/vnd.google-apps.folder",
                 "children": [
                   {
-                    "id": "1GtfHGYIyEJ03nOVh4MDWu5is3i9ohEoP",
-                    "name": "PROJECTIONS OF SOLIDS.pdf",
-                    "mimeType": "application/pdf",
-                    "children": [],
-                    "webViewLink": "https://drive.google.com/file/d/1GtfHGYIyEJ03nOVh4MDWu5is3i9ohEoP/preview",
-                    "webContentLink": "https://drive.google.com/uc?id=1GtfHGYIyEJ03nOVh4MDWu5is3i9ohEoP&export=download"
-                  },
-                  {
-                    "id": "1f3bA-Na1o6TqKG6smjUdQiMu1LLIpqtm",
-                    "name": "PROJECTIONS OF POINTS.pdf",
-                    "mimeType": "application/pdf",
-                    "children": [],
-                    "webViewLink": "https://drive.google.com/file/d/1f3bA-Na1o6TqKG6smjUdQiMu1LLIpqtm/preview",
-                    "webContentLink": "https://drive.google.com/uc?id=1f3bA-Na1o6TqKG6smjUdQiMu1LLIpqtm&export=download"
-                  },
-                  {
-                    "id": "1g0ogH1JX8oQcBQ_yGGX-ex87b1eRc9Z8",
-                    "name": "PROJECTIONS OF PLANES.pdf",
-                    "mimeType": "application/pdf",
-                    "children": [],
-                    "webViewLink": "https://drive.google.com/file/d/1g0ogH1JX8oQcBQ_yGGX-ex87b1eRc9Z8/preview",
-                    "webContentLink": "https://drive.google.com/uc?id=1g0ogH1JX8oQcBQ_yGGX-ex87b1eRc9Z8&export=download"
-                  },
-                  {
-                    "id": "1IQJ8xeG9c7v-SM2lQffMd2tabr_MV6x8",
-                    "name": "PROJECTIONS OF LINES.pdf",
-                    "mimeType": "application/pdf",
-                    "children": [],
-                    "webViewLink": "https://drive.google.com/file/d/1IQJ8xeG9c7v-SM2lQffMd2tabr_MV6x8/preview",
-                    "webContentLink": "https://drive.google.com/uc?id=1IQJ8xeG9c7v-SM2lQffMd2tabr_MV6x8&export=download"
-                  },
-                  {
-                    "id": "1vmIkHuueFnMHd43S7c0ioYAxqQj9X9Ql",
-                    "name": "ISOMETRIC PROJECTIONS.pdf",
-                    "mimeType": "application/pdf",
-                    "children": [],
-                    "webViewLink": "https://drive.google.com/file/d/1vmIkHuueFnMHd43S7c0ioYAxqQj9X9Ql/preview",
-                    "webContentLink": "https://drive.google.com/uc?id=1vmIkHuueFnMHd43S7c0ioYAxqQj9X9Ql&export=download"
-                  },
-                  {
-                    "id": "1i13BpbsfuIo7OgySG5elvUJyBmG_PUGk",
-                    "name": "GEOMETRICAL CONSTRUCTIONS.pdf",
-                    "mimeType": "application/pdf",
-                    "children": [],
-                    "webViewLink": "https://drive.google.com/file/d/1i13BpbsfuIo7OgySG5elvUJyBmG_PUGk/preview",
-                    "webContentLink": "https://drive.google.com/uc?id=1i13BpbsfuIo7OgySG5elvUJyBmG_PUGk&export=download"
-                  },
-                  {
-                    "id": "1Op-j2chGSyVdlZPrLx9KHtWGPWASJBhn",
-                    "name": "DEVELOPMENT OF LATERAL SURFACES.pdf",
-                    "mimeType": "application/pdf",
-                    "children": [],
-                    "webViewLink": "https://drive.google.com/file/d/1Op-j2chGSyVdlZPrLx9KHtWGPWASJBhn/preview",
-                    "webContentLink": "https://drive.google.com/uc?id=1Op-j2chGSyVdlZPrLx9KHtWGPWASJBhn&export=download"
+                    "id": "1H81XzqNyjZFAwQMvhgGP5UyKFrY4tZnd",
+                    "name": "notes",
+                    "mimeType": "application/vnd.google-apps.folder",
+                    "children": [
+                      {
+                        "id": "1A4-ifQ23HHhRIVHkqkkK5YCKRNKxr71M",
+                        "name": "Unit 5.pdf",
+                        "mimeType": "application/pdf",
+                        "children": [],
+                        "webViewLink": "https://drive.google.com/file/d/1A4-ifQ23HHhRIVHkqkkK5YCKRNKxr71M/preview",
+                        "webContentLink": "https://drive.google.com/uc?id=1A4-ifQ23HHhRIVHkqkkK5YCKRNKxr71M&export=download"
+                      },
+                      {
+                        "id": "1RGlyHSWM24HiJJZiv5PHFiGGtMMxz1od",
+                        "name": "Unit 4.pdf",
+                        "mimeType": "application/pdf",
+                        "children": [],
+                        "webViewLink": "https://drive.google.com/file/d/1RGlyHSWM24HiJJZiv5PHFiGGtMMxz1od/preview",
+                        "webContentLink": "https://drive.google.com/uc?id=1RGlyHSWM24HiJJZiv5PHFiGGtMMxz1od&export=download"
+                      },
+                      {
+                        "id": "1AiH7KeYDHQ8Dvb-cmX0rE0sCeEj0GrfU",
+                        "name": "Unit 3.pdf",
+                        "mimeType": "application/pdf",
+                        "children": [],
+                        "webViewLink": "https://drive.google.com/file/d/1AiH7KeYDHQ8Dvb-cmX0rE0sCeEj0GrfU/preview",
+                        "webContentLink": "https://drive.google.com/uc?id=1AiH7KeYDHQ8Dvb-cmX0rE0sCeEj0GrfU&export=download"
+                      },
+                      {
+                        "id": "1an-iZsUIhUZzaDYl9PVJ2_dznbBqWRzw",
+                        "name": "Unit 2.pdf",
+                        "mimeType": "application/pdf",
+                        "children": [],
+                        "webViewLink": "https://drive.google.com/file/d/1an-iZsUIhUZzaDYl9PVJ2_dznbBqWRzw/preview",
+                        "webContentLink": "https://drive.google.com/uc?id=1an-iZsUIhUZzaDYl9PVJ2_dznbBqWRzw&export=download"
+                      },
+                      {
+                        "id": "1EsODtSAMxS-1lt2lmu7ymWfxOg1J-aCL",
+                        "name": "Unit 1.pdf",
+                        "mimeType": "application/pdf",
+                        "children": [],
+                        "webViewLink": "https://drive.google.com/file/d/1EsODtSAMxS-1lt2lmu7ymWfxOg1J-aCL/preview",
+                        "webContentLink": "https://drive.google.com/uc?id=1EsODtSAMxS-1lt2lmu7ymWfxOg1J-aCL&export=download"
+                      }
+                    ]
                   }
                 ]
               },
               {
-                "id": "1cBiaAA6MUDzQ3nvEveONzD2ylASapwCt",
-                "name": "Manual drawing solutions",
+                "id": "1QGDJDRhGc9L64uMCcMRjgUbziwIgbGPA",
+                "name": "2022 Schema",
                 "mimeType": "application/vnd.google-apps.folder",
                 "children": [
                   {
-                    "id": "115uLazjzBOVwSFk2EmmmHVw3u9cluOSL",
-                    "name": "CAEG Solutions NVN ppt.pdf",
-                    "mimeType": "application/pdf",
-                    "children": [],
-                    "webViewLink": "https://drive.google.com/file/d/115uLazjzBOVwSFk2EmmmHVw3u9cluOSL/preview",
-                    "webContentLink": "https://drive.google.com/uc?id=115uLazjzBOVwSFk2EmmmHVw3u9cluOSL&export=download"
-                  },
-                  {
-                    "id": "1IYybUErcRgXrXxOeG5ke4jhqMJxhoHk8",
-                    "name": "Projection of Solids solutions.pdf",
-                    "mimeType": "application/pdf",
-                    "children": [],
-                    "webViewLink": "https://drive.google.com/file/d/1IYybUErcRgXrXxOeG5ke4jhqMJxhoHk8/preview",
-                    "webContentLink": "https://drive.google.com/uc?id=1IYybUErcRgXrXxOeG5ke4jhqMJxhoHk8&export=download"
-                  },
-                  {
-                    "id": "1ey2V2M517eAeL_CAXtcDHoEN5PDfxtLW",
-                    "name": "Projection of Points Solutions.pdf",
-                    "mimeType": "application/pdf",
-                    "children": [],
-                    "webViewLink": "https://drive.google.com/file/d/1ey2V2M517eAeL_CAXtcDHoEN5PDfxtLW/preview",
-                    "webContentLink": "https://drive.google.com/uc?id=1ey2V2M517eAeL_CAXtcDHoEN5PDfxtLW&export=download"
-                  },
-                  {
-                    "id": "1bKEZhsQkwNhSf7y4_AlRBYgi-1j1SVcy",
-                    "name": "Projection of Planes solutions.pdf",
-                    "mimeType": "application/pdf",
-                    "children": [],
-                    "webViewLink": "https://drive.google.com/file/d/1bKEZhsQkwNhSf7y4_AlRBYgi-1j1SVcy/preview",
-                    "webContentLink": "https://drive.google.com/uc?id=1bKEZhsQkwNhSf7y4_AlRBYgi-1j1SVcy&export=download"
-                  },
-                  {
-                    "id": "1ZmjejvRz1qoOv3vJpFKsZjIYOOTELdp-",
-                    "name": "Projection of Lines solutions.pdf",
-                    "mimeType": "application/pdf",
-                    "children": [],
-                    "webViewLink": "https://drive.google.com/file/d/1ZmjejvRz1qoOv3vJpFKsZjIYOOTELdp-/preview",
-                    "webContentLink": "https://drive.google.com/uc?id=1ZmjejvRz1qoOv3vJpFKsZjIYOOTELdp-&export=download"
-                  },
-                  {
-                    "id": "1yduDbYkRMvRkQANW9fGH5hf9JLX44kZN",
-                    "name": "Isometric Projections.pdf",
-                    "mimeType": "application/pdf",
-                    "children": [],
-                    "webViewLink": "https://drive.google.com/file/d/1yduDbYkRMvRkQANW9fGH5hf9JLX44kZN/preview",
-                    "webContentLink": "https://drive.google.com/uc?id=1yduDbYkRMvRkQANW9fGH5hf9JLX44kZN&export=download"
-                  },
-                  {
-                    "id": "1RYTTeFrtnjeyCna9x3Nni7fT2p5dhxF_",
-                    "name": "CAEG LAB MANUAL 22MED13 .pdf",
-                    "mimeType": "application/pdf",
-                    "children": [],
-                    "webViewLink": "https://drive.google.com/file/d/1RYTTeFrtnjeyCna9x3Nni7fT2p5dhxF_/preview",
-                    "webContentLink": "https://drive.google.com/uc?id=1RYTTeFrtnjeyCna9x3Nni7fT2p5dhxF_&export=download"
-                  },
-                  {
-                    "id": "1U53YT7uT3olNNXL_goHoNk3xj08xov-H",
-                    "name": "Development of Lateral Surfaces.pdf",
-                    "mimeType": "application/pdf",
-                    "children": [],
-                    "webViewLink": "https://drive.google.com/file/d/1U53YT7uT3olNNXL_goHoNk3xj08xov-H/preview",
-                    "webContentLink": "https://drive.google.com/uc?id=1U53YT7uT3olNNXL_goHoNk3xj08xov-H&export=download"
-                  }
-                ]
-              },
-              {
-                "id": "1qEMvu7ur1AH4ukugL6II0ut_ZxD9RFVn",
-                "name": "Computer drafting",
-                "mimeType": "application/vnd.google-apps.folder",
-                "children": [
-                  {
-                    "id": "1sJdu1wnLqpIKk-T1mb5XVxOYuviWl2Zm",
-                    "name": "Unit 9 - Development of Lateral surfaces",
+                    "id": "123m2heDm1FAYaLlRNJUGPeEq06kGVApK",
+                    "name": "Lab",
                     "mimeType": "application/vnd.google-apps.folder",
                     "children": [
                       {
-                        "id": "1veBTcAJHTC1N90qxRPliylNEEkxdZV1H",
-                        "name": "Unit 09.SLDDRW",
-                        "mimeType": "application/sldworks",
+                        "id": "1GtfHGYIyEJ03nOVh4MDWu5is3i9ohEoP",
+                        "name": "PROJECTIONS OF SOLIDS.pdf",
+                        "mimeType": "application/pdf",
                         "children": [],
-                        "webViewLink": "https://drive.google.com/file/d/1veBTcAJHTC1N90qxRPliylNEEkxdZV1H/preview",
-                        "webContentLink": "https://drive.google.com/uc?id=1veBTcAJHTC1N90qxRPliylNEEkxdZV1H&export=download"
+                        "webViewLink": "https://drive.google.com/file/d/1GtfHGYIyEJ03nOVh4MDWu5is3i9ohEoP/preview",
+                        "webContentLink": "https://drive.google.com/uc?id=1GtfHGYIyEJ03nOVh4MDWu5is3i9ohEoP&export=download"
+                      },
+                      {
+                        "id": "1f3bA-Na1o6TqKG6smjUdQiMu1LLIpqtm",
+                        "name": "PROJECTIONS OF POINTS.pdf",
+                        "mimeType": "application/pdf",
+                        "children": [],
+                        "webViewLink": "https://drive.google.com/file/d/1f3bA-Na1o6TqKG6smjUdQiMu1LLIpqtm/preview",
+                        "webContentLink": "https://drive.google.com/uc?id=1f3bA-Na1o6TqKG6smjUdQiMu1LLIpqtm&export=download"
+                      },
+                      {
+                        "id": "1g0ogH1JX8oQcBQ_yGGX-ex87b1eRc9Z8",
+                        "name": "PROJECTIONS OF PLANES.pdf",
+                        "mimeType": "application/pdf",
+                        "children": [],
+                        "webViewLink": "https://drive.google.com/file/d/1g0ogH1JX8oQcBQ_yGGX-ex87b1eRc9Z8/preview",
+                        "webContentLink": "https://drive.google.com/uc?id=1g0ogH1JX8oQcBQ_yGGX-ex87b1eRc9Z8&export=download"
+                      },
+                      {
+                        "id": "1IQJ8xeG9c7v-SM2lQffMd2tabr_MV6x8",
+                        "name": "PROJECTIONS OF LINES.pdf",
+                        "mimeType": "application/pdf",
+                        "children": [],
+                        "webViewLink": "https://drive.google.com/file/d/1IQJ8xeG9c7v-SM2lQffMd2tabr_MV6x8/preview",
+                        "webContentLink": "https://drive.google.com/uc?id=1IQJ8xeG9c7v-SM2lQffMd2tabr_MV6x8&export=download"
+                      },
+                      {
+                        "id": "1vmIkHuueFnMHd43S7c0ioYAxqQj9X9Ql",
+                        "name": "ISOMETRIC PROJECTIONS.pdf",
+                        "mimeType": "application/pdf",
+                        "children": [],
+                        "webViewLink": "https://drive.google.com/file/d/1vmIkHuueFnMHd43S7c0ioYAxqQj9X9Ql/preview",
+                        "webContentLink": "https://drive.google.com/uc?id=1vmIkHuueFnMHd43S7c0ioYAxqQj9X9Ql&export=download"
+                      },
+                      {
+                        "id": "1i13BpbsfuIo7OgySG5elvUJyBmG_PUGk",
+                        "name": "GEOMETRICAL CONSTRUCTIONS.pdf",
+                        "mimeType": "application/pdf",
+                        "children": [],
+                        "webViewLink": "https://drive.google.com/file/d/1i13BpbsfuIo7OgySG5elvUJyBmG_PUGk/preview",
+                        "webContentLink": "https://drive.google.com/uc?id=1i13BpbsfuIo7OgySG5elvUJyBmG_PUGk&export=download"
+                      },
+                      {
+                        "id": "1Op-j2chGSyVdlZPrLx9KHtWGPWASJBhn",
+                        "name": "DEVELOPMENT OF LATERAL SURFACES.pdf",
+                        "mimeType": "application/pdf",
+                        "children": [],
+                        "webViewLink": "https://drive.google.com/file/d/1Op-j2chGSyVdlZPrLx9KHtWGPWASJBhn/preview",
+                        "webContentLink": "https://drive.google.com/uc?id=1Op-j2chGSyVdlZPrLx9KHtWGPWASJBhn&export=download"
                       }
                     ]
                   },
                   {
-                    "id": "1HjNz495isMDMphh9mAGU9uflWb_Okrm3",
-                    "name": "Unit 7 - Orthographic to Isometric views",
+                    "id": "1cBiaAA6MUDzQ3nvEveONzD2ylASapwCt",
+                    "name": "Manual drawing solutions",
                     "mimeType": "application/vnd.google-apps.folder",
                     "children": [
                       {
-                        "id": "1e1jVhpzFSP1wwvT94pQTFVVYux5oJ1Ku",
-                        "name": "7.2 3D.SLDPRT",
-                        "mimeType": "application/sldworks",
+                        "id": "115uLazjzBOVwSFk2EmmmHVw3u9cluOSL",
+                        "name": "CAEG Solutions NVN ppt.pdf",
+                        "mimeType": "application/pdf",
                         "children": [],
-                        "webViewLink": "https://drive.google.com/file/d/1e1jVhpzFSP1wwvT94pQTFVVYux5oJ1Ku/preview",
-                        "webContentLink": "https://drive.google.com/uc?id=1e1jVhpzFSP1wwvT94pQTFVVYux5oJ1Ku&export=download"
+                        "webViewLink": "https://drive.google.com/file/d/115uLazjzBOVwSFk2EmmmHVw3u9cluOSL/preview",
+                        "webContentLink": "https://drive.google.com/uc?id=115uLazjzBOVwSFk2EmmmHVw3u9cluOSL&export=download"
                       },
                       {
-                        "id": "1Q91Get7ox9yn_MiPNL6ApSAVffha6GQc",
-                        "name": "7.3 3D.SLDPRT",
-                        "mimeType": "application/sldworks",
-                        "children": [],
-                        "webViewLink": "https://drive.google.com/file/d/1Q91Get7ox9yn_MiPNL6ApSAVffha6GQc/preview",
-                        "webContentLink": "https://drive.google.com/uc?id=1Q91Get7ox9yn_MiPNL6ApSAVffha6GQc&export=download"
-                      },
-                      {
-                        "id": "15_lwBrf5p_f9ldHlJG0yiTS9NMt19Gn7",
-                        "name": "7.4 3D.SLDPRT",
-                        "mimeType": "application/sldworks",
-                        "children": [],
-                        "webViewLink": "https://drive.google.com/file/d/15_lwBrf5p_f9ldHlJG0yiTS9NMt19Gn7/preview",
-                        "webContentLink": "https://drive.google.com/uc?id=15_lwBrf5p_f9ldHlJG0yiTS9NMt19Gn7&export=download"
-                      },
-                      {
-                        "id": "1CMLch-6odj-4tMrhyv8NmzbVI24aIf6X",
-                        "name": "7.1 3D.SLDPRT",
-                        "mimeType": "application/sldworks",
-                        "children": [],
-                        "webViewLink": "https://drive.google.com/file/d/1CMLch-6odj-4tMrhyv8NmzbVI24aIf6X/preview",
-                        "webContentLink": "https://drive.google.com/uc?id=1CMLch-6odj-4tMrhyv8NmzbVI24aIf6X&export=download"
-                      }
-                    ]
-                  },
-                  {
-                    "id": "1vAFaGBO2pGUw0BFzn1QZ7gvW2sQuiQi1",
-                    "name": "Unit 5 - Projection of solids",
-                    "mimeType": "application/vnd.google-apps.folder",
-                    "children": [
-                      {
-                        "id": "1AA0CgZUZ80Jelidql9UkkGWokF9nLeop",
+                        "id": "1IYybUErcRgXrXxOeG5ke4jhqMJxhoHk8",
                         "name": "Projection of Solids solutions.pdf",
                         "mimeType": "application/pdf",
                         "children": [],
-                        "webViewLink": "https://drive.google.com/file/d/1AA0CgZUZ80Jelidql9UkkGWokF9nLeop/preview",
-                        "webContentLink": "https://drive.google.com/uc?id=1AA0CgZUZ80Jelidql9UkkGWokF9nLeop&export=download"
+                        "webViewLink": "https://drive.google.com/file/d/1IYybUErcRgXrXxOeG5ke4jhqMJxhoHk8/preview",
+                        "webContentLink": "https://drive.google.com/uc?id=1IYybUErcRgXrXxOeG5ke4jhqMJxhoHk8&export=download"
                       },
                       {
-                        "id": "1ADODFpbK6IUDfVH2WX7ZJCVko8RwY1tG",
-                        "name": "Unit 05.SLDDRW",
-                        "mimeType": "application/sldworks",
-                        "children": [],
-                        "webViewLink": "https://drive.google.com/file/d/1ADODFpbK6IUDfVH2WX7ZJCVko8RwY1tG/preview",
-                        "webContentLink": "https://drive.google.com/uc?id=1ADODFpbK6IUDfVH2WX7ZJCVko8RwY1tG&export=download"
-                      }
-                    ]
-                  },
-                  {
-                    "id": "1LMjPqquvmzEI67pQ5xYyVkNTZoIyH-y6",
-                    "name": "Unit 10 - Engineering components",
-                    "mimeType": "application/vnd.google-apps.folder",
-                    "children": [
-                      {
-                        "id": "1BwRPQAhugFsP4WPH-7s5fCxPVBjEnKPj",
-                        "name": "~$BLALA.SLDDRW",
-                        "mimeType": "application/sldworks",
-                        "children": [],
-                        "webViewLink": "https://drive.google.com/file/d/1BwRPQAhugFsP4WPH-7s5fCxPVBjEnKPj/preview",
-                        "webContentLink": "https://drive.google.com/uc?id=1BwRPQAhugFsP4WPH-7s5fCxPVBjEnKPj&export=download"
-                      },
-                      {
-                        "id": "1UJkxNfZ1_Bk1hb6OQuULIwjw02H-KelP",
-                        "name": "bolt.SLDDRW",
-                        "mimeType": "application/sldworks",
-                        "children": [],
-                        "webViewLink": "https://drive.google.com/file/d/1UJkxNfZ1_Bk1hb6OQuULIwjw02H-KelP/preview",
-                        "webContentLink": "https://drive.google.com/uc?id=1UJkxNfZ1_Bk1hb6OQuULIwjw02H-KelP&export=download"
-                      },
-                      {
-                        "id": "1mKOPCTqQrBhZXc4vRusznINTiNCo4NKE",
-                        "name": "blabal2.SLDDRW",
-                        "mimeType": "application/sldworks",
-                        "children": [],
-                        "webViewLink": "https://drive.google.com/file/d/1mKOPCTqQrBhZXc4vRusznINTiNCo4NKE/preview",
-                        "webContentLink": "https://drive.google.com/uc?id=1mKOPCTqQrBhZXc4vRusznINTiNCo4NKE&export=download"
-                      },
-                      {
-                        "id": "1r3Vqp0G_0_zzm1_bM7Iyn-PcFar5e-Wy",
-                        "name": "hEXAGONAL Headed Bolt.SLDPRT",
-                        "mimeType": "application/sldworks",
-                        "children": [],
-                        "webViewLink": "https://drive.google.com/file/d/1r3Vqp0G_0_zzm1_bM7Iyn-PcFar5e-Wy/preview",
-                        "webContentLink": "https://drive.google.com/uc?id=1r3Vqp0G_0_zzm1_bM7Iyn-PcFar5e-Wy&export=download"
-                      },
-                      {
-                        "id": "1maonZ0aJB7toIwIopHgTYBt_9n__5hrH",
-                        "name": "blabal2.SLDASM",
-                        "mimeType": "application/sldworks",
-                        "children": [],
-                        "webViewLink": "https://drive.google.com/file/d/1maonZ0aJB7toIwIopHgTYBt_9n__5hrH/preview",
-                        "webContentLink": "https://drive.google.com/uc?id=1maonZ0aJB7toIwIopHgTYBt_9n__5hrH&export=download"
-                      },
-                      {
-                        "id": "198phm63IPXBJRF1p6w1INsV4wexGc7bM",
-                        "name": "Hexagonal Nut.SLDPRT",
-                        "mimeType": "application/sldworks",
-                        "children": [],
-                        "webViewLink": "https://drive.google.com/file/d/198phm63IPXBJRF1p6w1INsV4wexGc7bM/preview",
-                        "webContentLink": "https://drive.google.com/uc?id=198phm63IPXBJRF1p6w1INsV4wexGc7bM&export=download"
-                      },
-                      {
-                        "id": "1lv8anzO4_LsNZlhkIQLPKBqY8-v2itu-",
-                        "name": "Washer.SLDPRT",
-                        "mimeType": "application/sldworks",
-                        "children": [],
-                        "webViewLink": "https://drive.google.com/file/d/1lv8anzO4_LsNZlhkIQLPKBqY8-v2itu-/preview",
-                        "webContentLink": "https://drive.google.com/uc?id=1lv8anzO4_LsNZlhkIQLPKBqY8-v2itu-&export=download"
-                      },
-                      {
-                        "id": "1fnCI3k7YRTsQuRBace9IyN-Ds5O-2UrB",
-                        "name": "Cover Plate.SLDPRT",
-                        "mimeType": "application/sldworks",
-                        "children": [],
-                        "webViewLink": "https://drive.google.com/file/d/1fnCI3k7YRTsQuRBace9IyN-Ds5O-2UrB/preview",
-                        "webContentLink": "https://drive.google.com/uc?id=1fnCI3k7YRTsQuRBace9IyN-Ds5O-2UrB&export=download"
-                      },
-                      {
-                        "id": "1TdhfJz3_6hQeD25YMmACPD0uDEQExMHF",
-                        "name": "BLALA.SLDASM",
-                        "mimeType": "application/sldworks",
-                        "children": [],
-                        "webViewLink": "https://drive.google.com/file/d/1TdhfJz3_6hQeD25YMmACPD0uDEQExMHF/preview",
-                        "webContentLink": "https://drive.google.com/uc?id=1TdhfJz3_6hQeD25YMmACPD0uDEQExMHF&export=download"
-                      },
-                      {
-                        "id": "11R92M-BMswUV1KomcMObZR3xDc3qKu-j",
-                        "name": "Butt Plate.SLDPRT",
-                        "mimeType": "application/sldworks",
-                        "children": [],
-                        "webViewLink": "https://drive.google.com/file/d/11R92M-BMswUV1KomcMObZR3xDc3qKu-j/preview",
-                        "webContentLink": "https://drive.google.com/uc?id=11R92M-BMswUV1KomcMObZR3xDc3qKu-j&export=download"
-                      },
-                      {
-                        "id": "1bX25j-9iDGUmw3LEK9n_BkiBgx7SwfCc",
-                        "name": "Rivet.SLDPRT",
-                        "mimeType": "application/sldworks",
-                        "children": [],
-                        "webViewLink": "https://drive.google.com/file/d/1bX25j-9iDGUmw3LEK9n_BkiBgx7SwfCc/preview",
-                        "webContentLink": "https://drive.google.com/uc?id=1bX25j-9iDGUmw3LEK9n_BkiBgx7SwfCc&export=download"
-                      }
-                    ]
-                  },
-                  {
-                    "id": "1gONN4ZKEIB-Lq9rhMM7S1c5GGiyD_La8",
-                    "name": "Unit 6 - Isometric projections",
-                    "mimeType": "application/vnd.google-apps.folder",
-                    "children": [
-                      {
-                        "id": "1CvgOGe5e2mkthDCU8woQHwU79cK06rWm",
-                        "name": "Unit 06.SLDDRW",
-                        "mimeType": "application/sldworks",
-                        "children": [],
-                        "webViewLink": "https://drive.google.com/file/d/1CvgOGe5e2mkthDCU8woQHwU79cK06rWm/preview",
-                        "webContentLink": "https://drive.google.com/uc?id=1CvgOGe5e2mkthDCU8woQHwU79cK06rWm&export=download"
-                      },
-                      {
-                        "id": "1DUWyH8V_78DrR6BkL34a1z_VPFKEW-S5",
-                        "name": "ISOMETRIC PROJECTIONS August 2023.pdf",
+                        "id": "1ey2V2M517eAeL_CAXtcDHoEN5PDfxtLW",
+                        "name": "Projection of Points Solutions.pdf",
                         "mimeType": "application/pdf",
                         "children": [],
-                        "webViewLink": "https://drive.google.com/file/d/1DUWyH8V_78DrR6BkL34a1z_VPFKEW-S5/preview",
-                        "webContentLink": "https://drive.google.com/uc?id=1DUWyH8V_78DrR6BkL34a1z_VPFKEW-S5&export=download"
+                        "webViewLink": "https://drive.google.com/file/d/1ey2V2M517eAeL_CAXtcDHoEN5PDfxtLW/preview",
+                        "webContentLink": "https://drive.google.com/uc?id=1ey2V2M517eAeL_CAXtcDHoEN5PDfxtLW&export=download"
+                      },
+                      {
+                        "id": "1bKEZhsQkwNhSf7y4_AlRBYgi-1j1SVcy",
+                        "name": "Projection of Planes solutions.pdf",
+                        "mimeType": "application/pdf",
+                        "children": [],
+                        "webViewLink": "https://drive.google.com/file/d/1bKEZhsQkwNhSf7y4_AlRBYgi-1j1SVcy/preview",
+                        "webContentLink": "https://drive.google.com/uc?id=1bKEZhsQkwNhSf7y4_AlRBYgi-1j1SVcy&export=download"
+                      },
+                      {
+                        "id": "1ZmjejvRz1qoOv3vJpFKsZjIYOOTELdp-",
+                        "name": "Projection of Lines solutions.pdf",
+                        "mimeType": "application/pdf",
+                        "children": [],
+                        "webViewLink": "https://drive.google.com/file/d/1ZmjejvRz1qoOv3vJpFKsZjIYOOTELdp-/preview",
+                        "webContentLink": "https://drive.google.com/uc?id=1ZmjejvRz1qoOv3vJpFKsZjIYOOTELdp-&export=download"
+                      },
+                      {
+                        "id": "1yduDbYkRMvRkQANW9fGH5hf9JLX44kZN",
+                        "name": "Isometric Projections.pdf",
+                        "mimeType": "application/pdf",
+                        "children": [],
+                        "webViewLink": "https://drive.google.com/file/d/1yduDbYkRMvRkQANW9fGH5hf9JLX44kZN/preview",
+                        "webContentLink": "https://drive.google.com/uc?id=1yduDbYkRMvRkQANW9fGH5hf9JLX44kZN&export=download"
+                      },
+                      {
+                        "id": "1RYTTeFrtnjeyCna9x3Nni7fT2p5dhxF_",
+                        "name": "CAEG LAB MANUAL 22MED13 .pdf",
+                        "mimeType": "application/pdf",
+                        "children": [],
+                        "webViewLink": "https://drive.google.com/file/d/1RYTTeFrtnjeyCna9x3Nni7fT2p5dhxF_/preview",
+                        "webContentLink": "https://drive.google.com/uc?id=1RYTTeFrtnjeyCna9x3Nni7fT2p5dhxF_&export=download"
+                      },
+                      {
+                        "id": "1U53YT7uT3olNNXL_goHoNk3xj08xov-H",
+                        "name": "Development of Lateral Surfaces.pdf",
+                        "mimeType": "application/pdf",
+                        "children": [],
+                        "webViewLink": "https://drive.google.com/file/d/1U53YT7uT3olNNXL_goHoNk3xj08xov-H/preview",
+                        "webContentLink": "https://drive.google.com/uc?id=1U53YT7uT3olNNXL_goHoNk3xj08xov-H&export=download"
                       }
                     ]
-                  }
-                ]
-              },
-              {
-                "id": "12BWtFTQDBU8YnI8abe0Zj6l2M_1gFZZU",
-                "name": "qp",
-                "mimeType": "application/vnd.google-apps.folder",
-                "children": [
-                  {
-                    "id": "1hpwm1CIfnMp95d6N0WCyv-gHS6P4CdMA",
-                    "name": "CAEG Q2 MODELS 2025_Final (1).pdf",
-                    "mimeType": "application/pdf",
-                    "children": [],
-                    "webViewLink": "https://drive.google.com/file/d/1hpwm1CIfnMp95d6N0WCyv-gHS6P4CdMA/preview",
-                    "webContentLink": "https://drive.google.com/uc?id=1hpwm1CIfnMp95d6N0WCyv-gHS6P4CdMA&export=download"
                   },
                   {
-                    "id": "1UePacrLy4clGn0bW91-kqcWfpDJIOTo_",
-                    "name": "CAEG CIE 24-25.pdf",
-                    "mimeType": "application/pdf",
-                    "children": [],
-                    "webViewLink": "https://drive.google.com/file/d/1UePacrLy4clGn0bW91-kqcWfpDJIOTo_/preview",
-                    "webContentLink": "https://drive.google.com/uc?id=1UePacrLy4clGn0bW91-kqcWfpDJIOTo_&export=download"
+                    "id": "1qEMvu7ur1AH4ukugL6II0ut_ZxD9RFVn",
+                    "name": "Computer drafting",
+                    "mimeType": "application/vnd.google-apps.folder",
+                    "children": [
+                      {
+                        "id": "1sJdu1wnLqpIKk-T1mb5XVxOYuviWl2Zm",
+                        "name": "Unit 9 - Development of Lateral surfaces",
+                        "mimeType": "application/vnd.google-apps.folder",
+                        "children": [
+                          {
+                            "id": "1veBTcAJHTC1N90qxRPliylNEEkxdZV1H",
+                            "name": "Unit 09.SLDDRW",
+                            "mimeType": "application/sldworks",
+                            "children": [],
+                            "webViewLink": "https://drive.google.com/file/d/1veBTcAJHTC1N90qxRPliylNEEkxdZV1H/preview",
+                            "webContentLink": "https://drive.google.com/uc?id=1veBTcAJHTC1N90qxRPliylNEEkxdZV1H&export=download"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "1HjNz495isMDMphh9mAGU9uflWb_Okrm3",
+                        "name": "Unit 7 - Orthographic to Isometric views",
+                        "mimeType": "application/vnd.google-apps.folder",
+                        "children": [
+                          {
+                            "id": "1e1jVhpzFSP1wwvT94pQTFVVYux5oJ1Ku",
+                            "name": "7.2 3D.SLDPRT",
+                            "mimeType": "application/sldworks",
+                            "children": [],
+                            "webViewLink": "https://drive.google.com/file/d/1e1jVhpzFSP1wwvT94pQTFVVYux5oJ1Ku/preview",
+                            "webContentLink": "https://drive.google.com/uc?id=1e1jVhpzFSP1wwvT94pQTFVVYux5oJ1Ku&export=download"
+                          },
+                          {
+                            "id": "1Q91Get7ox9yn_MiPNL6ApSAVffha6GQc",
+                            "name": "7.3 3D.SLDPRT",
+                            "mimeType": "application/sldworks",
+                            "children": [],
+                            "webViewLink": "https://drive.google.com/file/d/1Q91Get7ox9yn_MiPNL6ApSAVffha6GQc/preview",
+                            "webContentLink": "https://drive.google.com/uc?id=1Q91Get7ox9yn_MiPNL6ApSAVffha6GQc&export=download"
+                          },
+                          {
+                            "id": "15_lwBrf5p_f9ldHlJG0yiTS9NMt19Gn7",
+                            "name": "7.4 3D.SLDPRT",
+                            "mimeType": "application/sldworks",
+                            "children": [],
+                            "webViewLink": "https://drive.google.com/file/d/15_lwBrf5p_f9ldHlJG0yiTS9NMt19Gn7/preview",
+                            "webContentLink": "https://drive.google.com/uc?id=15_lwBrf5p_f9ldHlJG0yiTS9NMt19Gn7&export=download"
+                          },
+                          {
+                            "id": "1CMLch-6odj-4tMrhyv8NmzbVI24aIf6X",
+                            "name": "7.1 3D.SLDPRT",
+                            "mimeType": "application/sldworks",
+                            "children": [],
+                            "webViewLink": "https://drive.google.com/file/d/1CMLch-6odj-4tMrhyv8NmzbVI24aIf6X/preview",
+                            "webContentLink": "https://drive.google.com/uc?id=1CMLch-6odj-4tMrhyv8NmzbVI24aIf6X&export=download"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "1vAFaGBO2pGUw0BFzn1QZ7gvW2sQuiQi1",
+                        "name": "Unit 5 - Projection of solids",
+                        "mimeType": "application/vnd.google-apps.folder",
+                        "children": [
+                          {
+                            "id": "1AA0CgZUZ80Jelidql9UkkGWokF9nLeop",
+                            "name": "Projection of Solids solutions.pdf",
+                            "mimeType": "application/pdf",
+                            "children": [],
+                            "webViewLink": "https://drive.google.com/file/d/1AA0CgZUZ80Jelidql9UkkGWokF9nLeop/preview",
+                            "webContentLink": "https://drive.google.com/uc?id=1AA0CgZUZ80Jelidql9UkkGWokF9nLeop&export=download"
+                          },
+                          {
+                            "id": "1ADODFpbK6IUDfVH2WX7ZJCVko8RwY1tG",
+                            "name": "Unit 05.SLDDRW",
+                            "mimeType": "application/sldworks",
+                            "children": [],
+                            "webViewLink": "https://drive.google.com/file/d/1ADODFpbK6IUDfVH2WX7ZJCVko8RwY1tG/preview",
+                            "webContentLink": "https://drive.google.com/uc?id=1ADODFpbK6IUDfVH2WX7ZJCVko8RwY1tG&export=download"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "1LMjPqquvmzEI67pQ5xYyVkNTZoIyH-y6",
+                        "name": "Unit 10 - Engineering components",
+                        "mimeType": "application/vnd.google-apps.folder",
+                        "children": [
+                          {
+                            "id": "1BwRPQAhugFsP4WPH-7s5fCxPVBjEnKPj",
+                            "name": "~$BLALA.SLDDRW",
+                            "mimeType": "application/sldworks",
+                            "children": [],
+                            "webViewLink": "https://drive.google.com/file/d/1BwRPQAhugFsP4WPH-7s5fCxPVBjEnKPj/preview",
+                            "webContentLink": "https://drive.google.com/uc?id=1BwRPQAhugFsP4WPH-7s5fCxPVBjEnKPj&export=download"
+                          },
+                          {
+                            "id": "1UJkxNfZ1_Bk1hb6OQuULIwjw02H-KelP",
+                            "name": "bolt.SLDDRW",
+                            "mimeType": "application/sldworks",
+                            "children": [],
+                            "webViewLink": "https://drive.google.com/file/d/1UJkxNfZ1_Bk1hb6OQuULIwjw02H-KelP/preview",
+                            "webContentLink": "https://drive.google.com/uc?id=1UJkxNfZ1_Bk1hb6OQuULIwjw02H-KelP&export=download"
+                          },
+                          {
+                            "id": "1mKOPCTqQrBhZXc4vRusznINTiNCo4NKE",
+                            "name": "blabal2.SLDDRW",
+                            "mimeType": "application/sldworks",
+                            "children": [],
+                            "webViewLink": "https://drive.google.com/file/d/1mKOPCTqQrBhZXc4vRusznINTiNCo4NKE/preview",
+                            "webContentLink": "https://drive.google.com/uc?id=1mKOPCTqQrBhZXc4vRusznINTiNCo4NKE&export=download"
+                          },
+                          {
+                            "id": "1r3Vqp0G_0_zzm1_bM7Iyn-PcFar5e-Wy",
+                            "name": "hEXAGONAL Headed Bolt.SLDPRT",
+                            "mimeType": "application/sldworks",
+                            "children": [],
+                            "webViewLink": "https://drive.google.com/file/d/1r3Vqp0G_0_zzm1_bM7Iyn-PcFar5e-Wy/preview",
+                            "webContentLink": "https://drive.google.com/uc?id=1r3Vqp0G_0_zzm1_bM7Iyn-PcFar5e-Wy&export=download"
+                          },
+                          {
+                            "id": "1maonZ0aJB7toIwIopHgTYBt_9n__5hrH",
+                            "name": "blabal2.SLDASM",
+                            "mimeType": "application/sldworks",
+                            "children": [],
+                            "webViewLink": "https://drive.google.com/file/d/1maonZ0aJB7toIwIopHgTYBt_9n__5hrH/preview",
+                            "webContentLink": "https://drive.google.com/uc?id=1maonZ0aJB7toIwIopHgTYBt_9n__5hrH&export=download"
+                          },
+                          {
+                            "id": "198phm63IPXBJRF1p6w1INsV4wexGc7bM",
+                            "name": "Hexagonal Nut.SLDPRT",
+                            "mimeType": "application/sldworks",
+                            "children": [],
+                            "webViewLink": "https://drive.google.com/file/d/198phm63IPXBJRF1p6w1INsV4wexGc7bM/preview",
+                            "webContentLink": "https://drive.google.com/uc?id=198phm63IPXBJRF1p6w1INsV4wexGc7bM&export=download"
+                          },
+                          {
+                            "id": "1lv8anzO4_LsNZlhkIQLPKBqY8-v2itu-",
+                            "name": "Washer.SLDPRT",
+                            "mimeType": "application/sldworks",
+                            "children": [],
+                            "webViewLink": "https://drive.google.com/file/d/1lv8anzO4_LsNZlhkIQLPKBqY8-v2itu-/preview",
+                            "webContentLink": "https://drive.google.com/uc?id=1lv8anzO4_LsNZlhkIQLPKBqY8-v2itu-&export=download"
+                          },
+                          {
+                            "id": "1fnCI3k7YRTsQuRBace9IyN-Ds5O-2UrB",
+                            "name": "Cover Plate.SLDPRT",
+                            "mimeType": "application/sldworks",
+                            "children": [],
+                            "webViewLink": "https://drive.google.com/file/d/1fnCI3k7YRTsQuRBace9IyN-Ds5O-2UrB/preview",
+                            "webContentLink": "https://drive.google.com/uc?id=1fnCI3k7YRTsQuRBace9IyN-Ds5O-2UrB&export=download"
+                          },
+                          {
+                            "id": "1TdhfJz3_6hQeD25YMmACPD0uDEQExMHF",
+                            "name": "BLALA.SLDASM",
+                            "mimeType": "application/sldworks",
+                            "children": [],
+                            "webViewLink": "https://drive.google.com/file/d/1TdhfJz3_6hQeD25YMmACPD0uDEQExMHF/preview",
+                            "webContentLink": "https://drive.google.com/uc?id=1TdhfJz3_6hQeD25YMmACPD0uDEQExMHF&export=download"
+                          },
+                          {
+                            "id": "11R92M-BMswUV1KomcMObZR3xDc3qKu-j",
+                            "name": "Butt Plate.SLDPRT",
+                            "mimeType": "application/sldworks",
+                            "children": [],
+                            "webViewLink": "https://drive.google.com/file/d/11R92M-BMswUV1KomcMObZR3xDc3qKu-j/preview",
+                            "webContentLink": "https://drive.google.com/uc?id=11R92M-BMswUV1KomcMObZR3xDc3qKu-j&export=download"
+                          },
+                          {
+                            "id": "1bX25j-9iDGUmw3LEK9n_BkiBgx7SwfCc",
+                            "name": "Rivet.SLDPRT",
+                            "mimeType": "application/sldworks",
+                            "children": [],
+                            "webViewLink": "https://drive.google.com/file/d/1bX25j-9iDGUmw3LEK9n_BkiBgx7SwfCc/preview",
+                            "webContentLink": "https://drive.google.com/uc?id=1bX25j-9iDGUmw3LEK9n_BkiBgx7SwfCc&export=download"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "1gONN4ZKEIB-Lq9rhMM7S1c5GGiyD_La8",
+                        "name": "Unit 6 - Isometric projections",
+                        "mimeType": "application/vnd.google-apps.folder",
+                        "children": [
+                          {
+                            "id": "1CvgOGe5e2mkthDCU8woQHwU79cK06rWm",
+                            "name": "Unit 06.SLDDRW",
+                            "mimeType": "application/sldworks",
+                            "children": [],
+                            "webViewLink": "https://drive.google.com/file/d/1CvgOGe5e2mkthDCU8woQHwU79cK06rWm/preview",
+                            "webContentLink": "https://drive.google.com/uc?id=1CvgOGe5e2mkthDCU8woQHwU79cK06rWm&export=download"
+                          },
+                          {
+                            "id": "1DUWyH8V_78DrR6BkL34a1z_VPFKEW-S5",
+                            "name": "ISOMETRIC PROJECTIONS August 2023.pdf",
+                            "mimeType": "application/pdf",
+                            "children": [],
+                            "webViewLink": "https://drive.google.com/file/d/1DUWyH8V_78DrR6BkL34a1z_VPFKEW-S5/preview",
+                            "webContentLink": "https://drive.google.com/uc?id=1DUWyH8V_78DrR6BkL34a1z_VPFKEW-S5&export=download"
+                          }
+                        ]
+                      }
+                    ]
                   },
                   {
-                    "id": "15nQgvAU4uBVUrG8F-p71RIeG_1ZRQTT7",
-                    "name": "mqp.pdf",
-                    "mimeType": "application/pdf",
-                    "children": [],
-                    "webViewLink": "https://drive.google.com/file/d/15nQgvAU4uBVUrG8F-p71RIeG_1ZRQTT7/preview",
-                    "webContentLink": "https://drive.google.com/uc?id=15nQgvAU4uBVUrG8F-p71RIeG_1ZRQTT7&export=download"
-                  },
-                  {
-                    "id": "1mfSamUkmYAB7ymJS0sXP5ISR8TBZgc44",
-                    "name": "cies + see 22-23 I.pdf",
-                    "mimeType": "application/pdf",
-                    "children": [],
-                    "webViewLink": "https://drive.google.com/file/d/1mfSamUkmYAB7ymJS0sXP5ISR8TBZgc44/preview",
-                    "webContentLink": "https://drive.google.com/uc?id=1mfSamUkmYAB7ymJS0sXP5ISR8TBZgc44&export=download"
-                  },
-                  {
-                    "id": "1TWRWFz6pG2SXgVkViUSbBC2EckUXa2mQ",
-                    "name": "see qp's.pdf",
-                    "mimeType": "application/pdf",
-                    "children": [],
-                    "webViewLink": "https://drive.google.com/file/d/1TWRWFz6pG2SXgVkViUSbBC2EckUXa2mQ/preview",
-                    "webContentLink": "https://drive.google.com/uc?id=1TWRWFz6pG2SXgVkViUSbBC2EckUXa2mQ&export=download"
-                  },
-                  {
-                    "id": "1q7Ugih3xc28uClc3Zu9EfSd5rtFrSwc4",
-                    "name": "cies + see 23-24 I.pdf",
-                    "mimeType": "application/pdf",
-                    "children": [],
-                    "webViewLink": "https://drive.google.com/file/d/1q7Ugih3xc28uClc3Zu9EfSd5rtFrSwc4/preview",
-                    "webContentLink": "https://drive.google.com/uc?id=1q7Ugih3xc28uClc3Zu9EfSd5rtFrSwc4&export=download"
+                    "id": "12BWtFTQDBU8YnI8abe0Zj6l2M_1gFZZU",
+                    "name": "qp",
+                    "mimeType": "application/vnd.google-apps.folder",
+                    "children": [
+                      {
+                        "id": "1hpwm1CIfnMp95d6N0WCyv-gHS6P4CdMA",
+                        "name": "CAEG Q2 MODELS 2025_Final (1).pdf",
+                        "mimeType": "application/pdf",
+                        "children": [],
+                        "webViewLink": "https://drive.google.com/file/d/1hpwm1CIfnMp95d6N0WCyv-gHS6P4CdMA/preview",
+                        "webContentLink": "https://drive.google.com/uc?id=1hpwm1CIfnMp95d6N0WCyv-gHS6P4CdMA&export=download"
+                      },
+                      {
+                        "id": "1UePacrLy4clGn0bW91-kqcWfpDJIOTo_",
+                        "name": "CAEG CIE 24-25.pdf",
+                        "mimeType": "application/pdf",
+                        "children": [],
+                        "webViewLink": "https://drive.google.com/file/d/1UePacrLy4clGn0bW91-kqcWfpDJIOTo_/preview",
+                        "webContentLink": "https://drive.google.com/uc?id=1UePacrLy4clGn0bW91-kqcWfpDJIOTo_&export=download"
+                      },
+                      {
+                        "id": "15nQgvAU4uBVUrG8F-p71RIeG_1ZRQTT7",
+                        "name": "mqp.pdf",
+                        "mimeType": "application/pdf",
+                        "children": [],
+                        "webViewLink": "https://drive.google.com/file/d/15nQgvAU4uBVUrG8F-p71RIeG_1ZRQTT7/preview",
+                        "webContentLink": "https://drive.google.com/uc?id=15nQgvAU4uBVUrG8F-p71RIeG_1ZRQTT7&export=download"
+                      },
+                      {
+                        "id": "1mfSamUkmYAB7ymJS0sXP5ISR8TBZgc44",
+                        "name": "cies + see 22-23 I.pdf",
+                        "mimeType": "application/pdf",
+                        "children": [],
+                        "webViewLink": "https://drive.google.com/file/d/1mfSamUkmYAB7ymJS0sXP5ISR8TBZgc44/preview",
+                        "webContentLink": "https://drive.google.com/uc?id=1mfSamUkmYAB7ymJS0sXP5ISR8TBZgc44&export=download"
+                      },
+                      {
+                        "id": "1TWRWFz6pG2SXgVkViUSbBC2EckUXa2mQ",
+                        "name": "see qp's.pdf",
+                        "mimeType": "application/pdf",
+                        "children": [],
+                        "webViewLink": "https://drive.google.com/file/d/1TWRWFz6pG2SXgVkViUSbBC2EckUXa2mQ/preview",
+                        "webContentLink": "https://drive.google.com/uc?id=1TWRWFz6pG2SXgVkViUSbBC2EckUXa2mQ&export=download"
+                      },
+                      {
+                        "id": "1q7Ugih3xc28uClc3Zu9EfSd5rtFrSwc4",
+                        "name": "cies + see 23-24 I.pdf",
+                        "mimeType": "application/pdf",
+                        "children": [],
+                        "webViewLink": "https://drive.google.com/file/d/1q7Ugih3xc28uClc3Zu9EfSd5rtFrSwc4/preview",
+                        "webContentLink": "https://drive.google.com/uc?id=1q7Ugih3xc28uClc3Zu9EfSd5rtFrSwc4&export=download"
+                      }
+                    ]
                   }
                 ]
               }
@@ -4652,30 +4767,108 @@
                     "id": "1tIyakjcFjq5CAMvfEZPNrtVessB1g1vN",
                     "name": "notes",
                     "mimeType": "application/vnd.google-apps.folder",
-                    "children": [
+                    "children":  [
                       {
-                        "id": "1rnUuCbfd8C0ms7OvXTm5D4mFiQ63xfuo",
-                        "name": "Unit-5.pdf",
-                        "mimeType": "application/pdf",
-                        "children": [],
-                        "webViewLink": "https://drive.google.com/file/d/1rnUuCbfd8C0ms7OvXTm5D4mFiQ63xfuo/preview",
-                        "webContentLink": "https://drive.google.com/uc?id=1rnUuCbfd8C0ms7OvXTm5D4mFiQ63xfuo&export=download"
+                        "id": "1yOqSEyyXcMbzVtCTqD06xd8UJlkLp3lZ",
+                        "name": "2025 Schema",
+                        "mimeType": "application/vnd.google-apps.folder",
+                        "children": [
+                          {
+                            "id": "1S9y9F2h5eJQwEC14vYUqSzA8WB-guA0P",
+                            "name": "Unit 5.pdf",
+                            "mimeType": "application/pdf",
+                            "children": [],
+                            "webViewLink": "https://drive.google.com/file/d/1S9y9F2h5eJQwEC14vYUqSzA8WB-guA0P/preview",
+                            "webContentLink": "https://drive.google.com/uc?id=1S9y9F2h5eJQwEC14vYUqSzA8WB-guA0P&export=download"
+                          },
+                          {
+                            "id": "1RtjRz0yj2OrZ3QnduhbKmr32sbq_89rb",
+                            "name": "Unit 4.pdf",
+                            "mimeType": "application/pdf",
+                            "children": [],
+                            "webViewLink": "https://drive.google.com/file/d/1RtjRz0yj2OrZ3QnduhbKmr32sbq_89rb/preview",
+                            "webContentLink": "https://drive.google.com/uc?id=1RtjRz0yj2OrZ3QnduhbKmr32sbq_89rb&export=download"
+                          },
+                          {
+                            "id": "1urFZXDXCLFN18_Noi_cG3Hg2nzIWfwqB",
+                            "name": "Unit 3.pdf",
+                            "mimeType": "application/pdf",
+                            "children": [],
+                            "webViewLink": "https://drive.google.com/file/d/1urFZXDXCLFN18_Noi_cG3Hg2nzIWfwqB/preview",
+                            "webContentLink": "https://drive.google.com/uc?id=1urFZXDXCLFN18_Noi_cG3Hg2nzIWfwqB&export=download"
+                          },
+                          {
+                            "id": "1G8VaddwxPt8K2Gs_p42-eczJdctaEi6Y",
+                            "name": "Unit 2.pdf",
+                            "mimeType": "application/pdf",
+                            "children": [],
+                            "webViewLink": "https://drive.google.com/file/d/1G8VaddwxPt8K2Gs_p42-eczJdctaEi6Y/preview",
+                            "webContentLink": "https://drive.google.com/uc?id=1G8VaddwxPt8K2Gs_p42-eczJdctaEi6Y&export=download"
+                          },
+                          {
+                            "id": "1aFboro4-6_nRD_nU1rzwupl9pcgZ79d7",
+                            "name": "Unit 1.pdf",
+                            "mimeType": "application/pdf",
+                            "children": [],
+                            "webViewLink": "https://drive.google.com/file/d/1aFboro4-6_nRD_nU1rzwupl9pcgZ79d7/preview",
+                            "webContentLink": "https://drive.google.com/uc?id=1aFboro4-6_nRD_nU1rzwupl9pcgZ79d7&export=download"
+                          }
+                        ]
                       },
                       {
-                        "id": "1A3tlsTidC7Ay2cabN6r5fYt9yyAaenjj",
-                        "name": "Unit-3.pdf",
-                        "mimeType": "application/pdf",
-                        "children": [],
-                        "webViewLink": "https://drive.google.com/file/d/1A3tlsTidC7Ay2cabN6r5fYt9yyAaenjj/preview",
-                        "webContentLink": "https://drive.google.com/uc?id=1A3tlsTidC7Ay2cabN6r5fYt9yyAaenjj&export=download"
-                      },
-                      {
-                        "id": "1uhEXoIKMrOuT7ePqehACZTqMSRtZAJ34",
-                        "name": "Unit-2.pdf",
-                        "mimeType": "application/pdf",
-                        "children": [],
-                        "webViewLink": "https://drive.google.com/file/d/1uhEXoIKMrOuT7ePqehACZTqMSRtZAJ34/preview",
-                        "webContentLink": "https://drive.google.com/uc?id=1uhEXoIKMrOuT7ePqehACZTqMSRtZAJ34&export=download"
+                        "id": "1-NHKDuh_StubefHr0Wqzfr0muy1CtUkf",
+                        "name": "2022 Schema",
+                        "mimeType": "application/vnd.google-apps.folder",
+                        "children": [
+                          {
+                            "id": "1rnUuCbfd8C0ms7OvXTm5D4mFiQ63xfuo",
+                            "name": "Unit-5.pdf",
+                            "mimeType": "application/pdf",
+                            "children": [],
+                            "webViewLink": "https://drive.google.com/file/d/1rnUuCbfd8C0ms7OvXTm5D4mFiQ63xfuo/preview",
+                            "webContentLink": "https://drive.google.com/uc?id=1rnUuCbfd8C0ms7OvXTm5D4mFiQ63xfuo&export=download"
+                          },
+                          {
+                            "id": "1A3tlsTidC7Ay2cabN6r5fYt9yyAaenjj",
+                            "name": "Unit-3.pdf",
+                            "mimeType": "application/pdf",
+                            "children": [],
+                            "webViewLink": "https://drive.google.com/file/d/1A3tlsTidC7Ay2cabN6r5fYt9yyAaenjj/preview",
+                            "webContentLink": "https://drive.google.com/uc?id=1A3tlsTidC7Ay2cabN6r5fYt9yyAaenjj&export=download"
+                          },
+                          {
+                            "id": "1uhEXoIKMrOuT7ePqehACZTqMSRtZAJ34",
+                            "name": "Unit-2.pdf",
+                            "mimeType": "application/pdf",
+                            "children": [],
+                            "webViewLink": "https://drive.google.com/file/d/1uhEXoIKMrOuT7ePqehACZTqMSRtZAJ34/preview",
+                            "webContentLink": "https://drive.google.com/uc?id=1uhEXoIKMrOuT7ePqehACZTqMSRtZAJ34&export=download"
+                          },
+                          {
+                            "id": "1ujsGzObOvEiu0JBwx7im2uia38NEnvhf",
+                            "name": "Unit-4.pdf",
+                            "mimeType": "application/pdf",
+                            "children": [],
+                            "webViewLink": "https://drive.google.com/file/d/1ujsGzObOvEiu0JBwx7im2uia38NEnvhf/preview",
+                            "webContentLink": "https://drive.google.com/uc?id=1ujsGzObOvEiu0JBwx7im2uia38NEnvhf&export=download"
+                          },
+                          {
+                            "id": "12rtWiVQcdROcozGIg-UGnQiKLt5aUdTS",
+                            "name": "Unit-3(1).pdf",
+                            "mimeType": "application/pdf",
+                            "children": [],
+                            "webViewLink": "https://drive.google.com/file/d/12rtWiVQcdROcozGIg-UGnQiKLt5aUdTS/preview",
+                            "webContentLink": "https://drive.google.com/uc?id=12rtWiVQcdROcozGIg-UGnQiKLt5aUdTS&export=download"
+                          },
+                          {
+                            "id": "1398hkEBhUl9Kuxi_bCwlMhigMIUMPOJz",
+                            "name": "Unit-1.pdf",
+                            "mimeType": "application/pdf",
+                            "children": [],
+                            "webViewLink": "https://drive.google.com/file/d/1398hkEBhUl9Kuxi_bCwlMhigMIUMPOJz/preview",
+                            "webContentLink": "https://drive.google.com/uc?id=1398hkEBhUl9Kuxi_bCwlMhigMIUMPOJz&export=download"
+                          }
+                        ]
                       },
                       {
                         "id": "1h12HUopVLOGEjxRHW8umEScYbmKM4_H-",
@@ -4684,30 +4877,6 @@
                         "children": [],
                         "webViewLink": "https://drive.google.com/file/d/1h12HUopVLOGEjxRHW8umEScYbmKM4_H-/preview",
                         "webContentLink": "https://drive.google.com/uc?id=1h12HUopVLOGEjxRHW8umEScYbmKM4_H-&export=download"
-                      },
-                      {
-                        "id": "1ujsGzObOvEiu0JBwx7im2uia38NEnvhf",
-                        "name": "Unit-4.pdf",
-                        "mimeType": "application/pdf",
-                        "children": [],
-                        "webViewLink": "https://drive.google.com/file/d/1ujsGzObOvEiu0JBwx7im2uia38NEnvhf/preview",
-                        "webContentLink": "https://drive.google.com/uc?id=1ujsGzObOvEiu0JBwx7im2uia38NEnvhf&export=download"
-                      },
-                      {
-                        "id": "12rtWiVQcdROcozGIg-UGnQiKLt5aUdTS",
-                        "name": "Unit-3(1).pdf",
-                        "mimeType": "application/pdf",
-                        "children": [],
-                        "webViewLink": "https://drive.google.com/file/d/12rtWiVQcdROcozGIg-UGnQiKLt5aUdTS/preview",
-                        "webContentLink": "https://drive.google.com/uc?id=12rtWiVQcdROcozGIg-UGnQiKLt5aUdTS&export=download"
-                      },
-                      {
-                        "id": "1398hkEBhUl9Kuxi_bCwlMhigMIUMPOJz",
-                        "name": "Unit-1.pdf",
-                        "mimeType": "application/pdf",
-                        "children": [],
-                        "webViewLink": "https://drive.google.com/file/d/1398hkEBhUl9Kuxi_bCwlMhigMIUMPOJz/preview",
-                        "webContentLink": "https://drive.google.com/uc?id=1398hkEBhUl9Kuxi_bCwlMhigMIUMPOJz&export=download"
                       }
                     ]
                   },
@@ -4716,6 +4885,14 @@
                     "name": "qp",
                     "mimeType": "application/vnd.google-apps.folder",
                     "children": [
+                       {
+                        "id": "1DvkDQcAcfwMd0JDfBaBISPFgBGioPRHO",
+                        "name": "Question Bank All Units.pdf",
+                        "mimeType": "application/pdf",
+                        "children": [],
+                        "webViewLink": "https://drive.google.com/file/d/1DvkDQcAcfwMd0JDfBaBISPFgBGioPRHO/preview",
+                        "webContentLink": "https://drive.google.com/uc?id=1DvkDQcAcfwMd0JDfBaBISPFgBGioPRHO&export=download"
+                      },
                       {
                         "id": "1EmPhwbWenJyfjULU6W_4hPGDxifyYeO-",
                         "name": "Python CIE, SEE 24- 25.pdf",
@@ -4776,6 +4953,14 @@
             "name": "Yoga (22HSY18)",
             "mimeType": "application/vnd.google-apps.folder",
             "children": [
+               {
+                "id": "1UWAeSyxpvqTDuZYhzj-WJvUjRvGDD1w8",
+                "name": "YOGA.txt",
+                "mimeType": "text/plain",
+                "children": [],
+                "webViewLink": "https://drive.google.com/file/d/1UWAeSyxpvqTDuZYhzj-WJvUjRvGDD1w8/preview",
+                "webContentLink": "https://drive.google.com/uc?id=1UWAeSyxpvqTDuZYhzj-WJvUjRvGDD1w8&export=download"
+              },
               {
                 "id": "1VUkVcGHDefIGRx7RhcajWTmldm_WADz4",
                 "name": "Yoga Notes.pdf",
@@ -5029,6 +5214,21 @@
                 "name": "notes (CS - Stream)",
                 "mimeType": "application/vnd.google-apps.folder",
                 "children": [
+                  {
+                    "id": "13SPVLOiv6sUv07cYYqRkA5lYHcnlBtbN",
+                    "name": "handwritten",
+                    "mimeType": "application/vnd.google-apps.folder",
+                    "children": [
+                      {
+                        "id": "13RhCO2cej4r-JG5CrJlKOlN0RjfTU5LL",
+                        "name": "All Units Handwritten Combined.pdf",
+                        "mimeType": "application/pdf",
+                        "children": [],
+                        "webViewLink": "https://drive.google.com/file/d/13RhCO2cej4r-JG5CrJlKOlN0RjfTU5LL/preview",
+                        "webContentLink": "https://drive.google.com/uc?id=13RhCO2cej4r-JG5CrJlKOlN0RjfTU5LL&export=download"
+                      }
+                    ]
+                  },
                   {
                     "id": "1h8jxHnke5EBox85WiVWMETiElPdj-Q_o",
                     "name": "Unit-I_Elementary Linear Algebra Notes.pdf",
