@@ -3199,6 +3199,243 @@
         "mimeType": "application/vnd.google-apps.folder",
         "children": [
           {
+            "id": "1X2NbxPD3MgzijeSBwr5tQbdYivh0pBIY",
+            "name": "AI_Foundations_For_Engineers (CI124AT)",
+            "mimeType": "application/vnd.google-apps.folder",
+            "children": [
+              {
+                "id": "1PbjPLAwY99HkBlsEgMzbcYz3JwqpeW3G",
+                "name": "NOTES",
+                "mimeType": "application/vnd.google-apps.folder",
+                "children": [
+                  {
+                    "id": "1pymxdLgW6dalfuYqc3ZrK3AIpQB4aXCw",
+                    "name": "AIFE-Unit2_Search_v2.pptx.pdf",
+                    "mimeType": "application/pdf",
+                    "children": [],
+                    "webViewLink": "https://drive.google.com/file/d/1pymxdLgW6dalfuYqc3ZrK3AIpQB4aXCw/preview",
+                    "webContentLink": "https://drive.google.com/uc?id=1pymxdLgW6dalfuYqc3ZrK3AIpQB4aXCw&export=download"
+                  },
+                  {
+                    "id": "1vW6InfNWOVwXf5oTen2vDfu-itg9krUV",
+                    "name": "AIFE_Unit-1_v2.pptx.pdf",
+                    "mimeType": "application/pdf",
+                    "children": [],
+                    "webViewLink": "https://drive.google.com/file/d/1vW6InfNWOVwXf5oTen2vDfu-itg9krUV/preview",
+                    "webContentLink": "https://drive.google.com/uc?id=1vW6InfNWOVwXf5oTen2vDfu-itg9krUV&export=download"
+                  },
+                  {
+                    "id": "1aHoDSS0pTuaHiQ2FcBTxE202OmfYk1u8",
+                    "name": "Backpropgationalogorthim.pptx.pdf",
+                    "mimeType": "application/pdf",
+                    "children": [],
+                    "webViewLink": "https://drive.google.com/file/d/1aHoDSS0pTuaHiQ2FcBTxE202OmfYk1u8/preview",
+                    "webContentLink": "https://drive.google.com/uc?id=1aHoDSS0pTuaHiQ2FcBTxE202OmfYk1u8&export=download"
+                  },
+                  {
+                    "id": "17od9Vag6SCxNtnVLCUKdU0VNhghnsvPa",
+                    "name": "Chapter 3.pptx.pdf",
+                    "mimeType": "application/pdf",
+                    "children": [],
+                    "webViewLink": "https://drive.google.com/file/d/17od9Vag6SCxNtnVLCUKdU0VNhghnsvPa/preview",
+                    "webContentLink": "https://drive.google.com/uc?id=17od9Vag6SCxNtnVLCUKdU0VNhghnsvPa&export=download"
+                  },
+                  {
+                    "id": "1VSZVOVJujpXgmO91G_YVfv3oX85FKOLk",
+                    "name": "Chapter1 - Copy.pdf",
+                    "mimeType": "application/pdf",
+                    "children": [],
+                    "webViewLink": "https://drive.google.com/file/d/1VSZVOVJujpXgmO91G_YVfv3oX85FKOLk/preview",
+                    "webContentLink": "https://drive.google.com/uc?id=1VSZVOVJujpXgmO91G_YVfv3oX85FKOLk&export=download"
+                  },
+                  {
+                    "id": "1BIIfX4YTBnuJphWhRhRzelBwXrBKOkia",
+                    "name": "Chapter2.pptx.pdf",
+                    "mimeType": "application/pdf",
+                    "children": [],
+                    "webViewLink": "https://drive.google.com/file/d/1BIIfX4YTBnuJphWhRhRzelBwXrBKOkia/preview",
+                    "webContentLink": "https://drive.google.com/uc?id=1BIIfX4YTBnuJphWhRhRzelBwXrBKOkia&export=download"
+                  },
+                  {
+                    "id": "1UVnDFfnQn-neoFmdWGjTAa_4wgxI5zSh",
+                    "name": "Convolutional Neural Network_Somesh.pptx.pdf",
+                    "mimeType": "application/pdf",
+                    "children": [],
+                    "webViewLink": "https://drive.google.com/file/d/1UVnDFfnQn-neoFmdWGjTAa_4wgxI5zSh/preview",
+                    "webContentLink": "https://drive.google.com/uc?id=1UVnDFfnQn-neoFmdWGjTAa_4wgxI5zSh&export=download"
+                  },
+                  {
+                    "id": "1c42fxQjd03PGrnb6tsqSGSBBt5PTARHf",
+                    "name": "Gradient_Descent_Basic_PPT.pptx.pdf",
+                    "mimeType": "application/pdf",
+                    "children": [],
+                    "webViewLink": "https://drive.google.com/file/d/1c42fxQjd03PGrnb6tsqSGSBBt5PTARHf/preview",
+                    "webContentLink": "https://drive.google.com/uc?id=1c42fxQjd03PGrnb6tsqSGSBBt5PTARHf&export=download"
+                  },
+                  {
+                    "id": "1dqo9UVCRwyD3-8YT6JDhYOCcny3b4ugy",
+                    "name": "ID3WorkedExample.pdf",
+                    "mimeType": "application/pdf",
+                    "children": [],
+                    "webViewLink": "https://drive.google.com/file/d/1dqo9UVCRwyD3-8YT6JDhYOCcny3b4ugy/preview",
+                    "webContentLink": "https://drive.google.com/uc?id=1dqo9UVCRwyD3-8YT6JDhYOCcny3b4ugy&export=download"
+                  },
+                  {
+                    "id": "1gH1DHImV5wCSQwlgj53CHqjrtaOe5bkK",
+                    "name": "ML Algorithms.pptx.pdf",
+                    "mimeType": "application/pdf",
+                    "children": [],
+                    "webViewLink": "https://drive.google.com/file/d/1gH1DHImV5wCSQwlgj53CHqjrtaOe5bkK/preview",
+                    "webContentLink": "https://drive.google.com/uc?id=1gH1DHImV5wCSQwlgj53CHqjrtaOe5bkK&export=download"
+                  },
+                  {
+                    "id": "1qwk8ivss2TM-jLwKhf6ivOd8UrJOGOJE",
+                    "name": "Recurrent Neural Networks _Somesh.pptx.pdf",
+                    "mimeType": "application/pdf",
+                    "children": [],
+                    "webViewLink": "https://drive.google.com/file/d/1qwk8ivss2TM-jLwKhf6ivOd8UrJOGOJE/preview",
+                    "webContentLink": "https://drive.google.com/uc?id=1qwk8ivss2TM-jLwKhf6ivOd8UrJOGOJE&export=download"
+                  },
+                  {
+                    "id": "1nQGFkH1tBz1nLt4pKuTaVx2SjBZRQ-9h",
+                    "name": "Responsible AI Architect-s Guide (1).pdf",
+                    "mimeType": "application/pdf",
+                    "children": [],
+                    "webViewLink": "https://drive.google.com/file/d/1nQGFkH1tBz1nLt4pKuTaVx2SjBZRQ-9h/preview",
+                    "webContentLink": "https://drive.google.com/uc?id=1nQGFkH1tBz1nLt4pKuTaVx2SjBZRQ-9h&export=download"
+                  },
+                  {
+                    "id": "10LF7pVdY6DzRXJg-tCpPhyQKfNmuvZnG",
+                    "name": "Unit 2.pptx.pdf",
+                    "mimeType": "application/pdf",
+                    "children": [],
+                    "webViewLink": "https://drive.google.com/file/d/10LF7pVdY6DzRXJg-tCpPhyQKfNmuvZnG/preview",
+                    "webContentLink": "https://drive.google.com/uc?id=10LF7pVdY6DzRXJg-tCpPhyQKfNmuvZnG&export=download"
+                  },
+                  {
+                    "id": "1LxCPRoIbA0YT2CHp0oLd6CwRfiiM0t77",
+                    "name": "Unit IV _AIFE - part1.pptx.pdf",
+                    "mimeType": "application/pdf",
+                    "children": [],
+                    "webViewLink": "https://drive.google.com/file/d/1LxCPRoIbA0YT2CHp0oLd6CwRfiiM0t77/preview",
+                    "webContentLink": "https://drive.google.com/uc?id=1LxCPRoIbA0YT2CHp0oLd6CwRfiiM0t77&export=download"
+                  }
+                ]
+              },
+              {
+                "id": "1c6FvvhZAR1WrFX8UOkgChK6fCOORHdiR",
+                "name": "QP",
+                "mimeType": "application/vnd.google-apps.folder",
+                "children": [
+                  {
+                    "id": "1hM0Y3NUcd_SDL-IuOgCzN92PegAO1bBi",
+                    "name": "AIFE CI114TA Model QP.pdf",
+                    "mimeType": "application/pdf",
+                    "children": [],
+                    "webViewLink": "https://drive.google.com/file/d/1hM0Y3NUcd_SDL-IuOgCzN92PegAO1bBi/preview",
+                    "webContentLink": "https://drive.google.com/uc?id=1hM0Y3NUcd_SDL-IuOgCzN92PegAO1bBi&export=download"
+                  },
+                  {
+                    "id": "1y3Wai-z2wc2XILKHdLLbHGawTTn9lidv",
+                    "name": "AIFE CIE 2 Scheme and Solutions.docx",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "children": [],
+                    "webViewLink": "https://docs.google.com/document/d/1y3Wai-z2wc2XILKHdLLbHGawTTn9lidv/edit?usp=drivesdk&ouid=106728917203791654051&rtpof=true&sd=true",
+                    "webContentLink": "https://drive.google.com/uc?id=1y3Wai-z2wc2XILKHdLLbHGawTTn9lidv&export=download"
+                  },
+                  {
+                    "id": "13TpMdAVv1pAsBFwCr0S8tbJSITP5GGb8",
+                    "name": "AIFE CIE 3 - Scheme and Solutions.docx",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "children": [],
+                    "webViewLink": "https://docs.google.com/document/d/13TpMdAVv1pAsBFwCr0S8tbJSITP5GGb8/edit?usp=drivesdk&ouid=106728917203791654051&rtpof=true&sd=true",
+                    "webContentLink": "https://drive.google.com/uc?id=13TpMdAVv1pAsBFwCr0S8tbJSITP5GGb8&export=download"
+                  },
+                  {
+                    "id": "10TUKT9Kd96HlNGVDClsBoEec05xGLEvv",
+                    "name": "AIFE CIE I Question Bank - v1- 13-10-2025.pdf",
+                    "mimeType": "application/pdf",
+                    "children": [],
+                    "webViewLink": "https://drive.google.com/file/d/10TUKT9Kd96HlNGVDClsBoEec05xGLEvv/preview",
+                    "webContentLink": "https://drive.google.com/uc?id=10TUKT9Kd96HlNGVDClsBoEec05xGLEvv&export=download"
+                  },
+                  {
+                    "id": "1tvCYYrrB9APY42w-uZ6c2GapagMxDGOa",
+                    "name": "AIFE CIE II Consolidated Question Bank v1.pdf",
+                    "mimeType": "application/pdf",
+                    "children": [],
+                    "webViewLink": "https://drive.google.com/file/d/1tvCYYrrB9APY42w-uZ6c2GapagMxDGOa/preview",
+                    "webContentLink": "https://drive.google.com/uc?id=1tvCYYrrB9APY42w-uZ6c2GapagMxDGOa&export=download"
+                  },
+                  {
+                    "id": "1NO3EyTICKN-oWca01drMuha3OEJj14Gt",
+                    "name": "AIFE CIE III Consolidated Question Bank v1.pdf",
+                    "mimeType": "application/pdf",
+                    "children": [],
+                    "webViewLink": "https://drive.google.com/file/d/1NO3EyTICKN-oWca01drMuha3OEJj14Gt/preview",
+                    "webContentLink": "https://drive.google.com/uc?id=1NO3EyTICKN-oWca01drMuha3OEJj14Gt&export=download"
+                  },
+                  {
+                    "id": "1sCk8AwWNccKhMEzneAGaAOCkg-c0Val1",
+                    "name": "AIFE qb_soln_part1.docx.pdf",
+                    "mimeType": "application/pdf",
+                    "children": [],
+                    "webViewLink": "https://drive.google.com/file/d/1sCk8AwWNccKhMEzneAGaAOCkg-c0Val1/preview",
+                    "webContentLink": "https://drive.google.com/uc?id=1sCk8AwWNccKhMEzneAGaAOCkg-c0Val1&export=download"
+                  },
+                  {
+                    "id": "1hSMvcBE1OUULClE4EklM1-cUtnxRQJXO",
+                    "name": "AIFESchemenSolution 2.pdf",
+                    "mimeType": "application/pdf",
+                    "children": [],
+                    "webViewLink": "https://drive.google.com/file/d/1hSMvcBE1OUULClE4EklM1-cUtnxRQJXO/preview",
+                    "webContentLink": "https://drive.google.com/uc?id=1hSMvcBE1OUULClE4EklM1-cUtnxRQJXO&export=download"
+                  },
+                  {
+                    "id": "1wmoFo9Y6-ec84d7sQg6-ZESIUdMsKIkH",
+                    "name": "AIFESchemenSolution.pdf",
+                    "mimeType": "application/pdf",
+                    "children": [],
+                    "webViewLink": "https://drive.google.com/file/d/1wmoFo9Y6-ec84d7sQg6-ZESIUdMsKIkH/preview",
+                    "webContentLink": "https://drive.google.com/uc?id=1wmoFo9Y6-ec84d7sQg6-ZESIUdMsKIkH&export=download"
+                  },
+                  {
+                    "id": "1X_xc-9VQpszA34WOvboBB7gy2ur3wZ6Y",
+                    "name": "QB_IntrotoMachineLearning.pdf",
+                    "mimeType": "application/pdf",
+                    "children": [],
+                    "webViewLink": "https://drive.google.com/file/d/1X_xc-9VQpszA34WOvboBB7gy2ur3wZ6Y/preview",
+                    "webContentLink": "https://drive.google.com/uc?id=1X_xc-9VQpszA34WOvboBB7gy2ur3wZ6Y&export=download"
+                  },
+                  {
+                    "id": "1qdoVS_8aKkRbcwSZkCP1_Oi1bidWKXZl",
+                    "name": "QB_IntrotoMachineLearning.pdf",
+                    "mimeType": "application/pdf",
+                    "children": [],
+                    "webViewLink": "https://drive.google.com/file/d/1qdoVS_8aKkRbcwSZkCP1_Oi1bidWKXZl/preview",
+                    "webContentLink": "https://drive.google.com/uc?id=1qdoVS_8aKkRbcwSZkCP1_Oi1bidWKXZl&export=download"
+                  }
+                ]
+              },
+              {
+                "id": "14UWo4X9P3xMVmLQCN5rT1gQDvoecoZ4H",
+                "name": "Syllabus_AIFoundationsforEngineers.pdf",
+                "mimeType": "application/pdf",
+                "children": [],
+                "webViewLink": "https://drive.google.com/file/d/14UWo4X9P3xMVmLQCN5rT1gQDvoecoZ4H/preview",
+                "webContentLink": "https://drive.google.com/uc?id=14UWo4X9P3xMVmLQCN5rT1gQDvoecoZ4H&export=download"
+              },
+              {
+                "id": "1pKSNyivyePkahNNujOH5rjUGJ0NkQVPp",
+                "name": "text.txt",
+                "mimeType": "text/plain",
+                "children": [],
+                "webViewLink": "https://drive.google.com/file/d/1pKSNyivyePkahNNujOH5rjUGJ0NkQVPp/preview",
+                "webContentLink": "https://drive.google.com/uc?id=1pKSNyivyePkahNNujOH5rjUGJ0NkQVPp&export=download"
+              }
+            ]
+          },
+          {
             "id": "1NoN1e_Alh_9SOAEpMbe3Kf78NPJ4U-zN",
             "name": "Basic Electronics",
             "mimeType": "application/vnd.google-apps.folder",
@@ -7143,6 +7380,117 @@
                     "webContentLink": "https://drive.google.com/uc?id=1Fj4EESLwxXw5Ckz10syMmoOjDGzz6Y00&export=download"
                   },
                   {
+                    "id": "17TK1P8_CInsVHcZ0yQuZVWBOoliMogsk",
+                    "name": "New",
+                    "mimeType": "application/vnd.google-apps.folder",
+                    "children": [
+                      {
+                        "id": "1naqGr85eCUFKoGH_79Nnu_QGvBZ_cBDM",
+                        "name": "18EC33.pdf",
+                        "mimeType": "application/pdf",
+                        "children": [],
+                        "webViewLink": "https://drive.google.com/file/d/1naqGr85eCUFKoGH_79Nnu_QGvBZ_cBDM/preview",
+                        "webContentLink": "https://drive.google.com/uc?id=1naqGr85eCUFKoGH_79Nnu_QGvBZ_cBDM&export=download"
+                      },
+                      {
+                        "id": "1QO8f_UY7GkerZW2yffm88LtYpwqPXpZm",
+                        "name": "2020 18EC33.pdf",
+                        "mimeType": "application/pdf",
+                        "children": [],
+                        "webViewLink": "https://drive.google.com/file/d/1QO8f_UY7GkerZW2yffm88LtYpwqPXpZm/preview",
+                        "webContentLink": "https://drive.google.com/uc?id=1QO8f_UY7GkerZW2yffm88LtYpwqPXpZm&export=download"
+                      },
+                      {
+                        "id": "1ay3wkfpaO_PyVcjtyukD-E41PJqkiTUE",
+                        "name": "2020 Fasttrack 16EC33_12EC33.pdf",
+                        "mimeType": "application/pdf",
+                        "children": [],
+                        "webViewLink": "https://drive.google.com/file/d/1ay3wkfpaO_PyVcjtyukD-E41PJqkiTUE/preview",
+                        "webContentLink": "https://drive.google.com/uc?id=1ay3wkfpaO_PyVcjtyukD-E41PJqkiTUE&export=download"
+                      },
+                      {
+                        "id": "12J3-EGgUo3rQeqvRDpBLAJdDcn07p0tK",
+                        "name": "2021 18EC33.pdf",
+                        "mimeType": "application/pdf",
+                        "children": [],
+                        "webViewLink": "https://drive.google.com/file/d/12J3-EGgUo3rQeqvRDpBLAJdDcn07p0tK/preview",
+                        "webContentLink": "https://drive.google.com/uc?id=12J3-EGgUo3rQeqvRDpBLAJdDcn07p0tK&export=download"
+                      },
+                      {
+                        "id": "1i7ZtvIYR1LjjfvwTH_bTB3Lyf-hApzps",
+                        "name": "AMC UNIT 4 OPAMPS (1).pdf",
+                        "mimeType": "application/pdf",
+                        "children": [],
+                        "webViewLink": "https://drive.google.com/file/d/1i7ZtvIYR1LjjfvwTH_bTB3Lyf-hApzps/preview",
+                        "webContentLink": "https://drive.google.com/uc?id=1i7ZtvIYR1LjjfvwTH_bTB3Lyf-hApzps&export=download"
+                      },
+                      {
+                        "id": "1EgyKAHygOJQawMZZPktxuWJA00d90NqO",
+                        "name": "AMC Unit5 Power Amplifiers (1).pdf",
+                        "mimeType": "application/pdf",
+                        "children": [],
+                        "webViewLink": "https://drive.google.com/file/d/1EgyKAHygOJQawMZZPktxuWJA00d90NqO/preview",
+                        "webContentLink": "https://drive.google.com/uc?id=1EgyKAHygOJQawMZZPktxuWJA00d90NqO&export=download"
+                      },
+                      {
+                        "id": "1laUu2G3nx1UyQLmjjbYXbN2gwTA4MLmD",
+                        "name": "BJT Nithin sir.pdf",
+                        "mimeType": "application/pdf",
+                        "children": [],
+                        "webViewLink": "https://drive.google.com/file/d/1laUu2G3nx1UyQLmjjbYXbN2gwTA4MLmD/preview",
+                        "webContentLink": "https://drive.google.com/uc?id=1laUu2G3nx1UyQLmjjbYXbN2gwTA4MLmD&export=download"
+                      },
+                      {
+                        "id": "1638r6_DE_FIBEI7LYj5XupEFA83Loozg",
+                        "name": "Mosfet Nithin sir notes.pdf",
+                        "mimeType": "application/pdf",
+                        "children": [],
+                        "webViewLink": "https://drive.google.com/file/d/1638r6_DE_FIBEI7LYj5XupEFA83Loozg/preview",
+                        "webContentLink": "https://drive.google.com/uc?id=1638r6_DE_FIBEI7LYj5XupEFA83Loozg&export=download"
+                      },
+                      {
+                        "id": "1pYWRooAVChr8YAk_98lySXX2qvLYMEtk",
+                        "name": "Unit-1 BJT (1).pdf",
+                        "mimeType": "application/pdf",
+                        "children": [],
+                        "webViewLink": "https://drive.google.com/file/d/1pYWRooAVChr8YAk_98lySXX2qvLYMEtk/preview",
+                        "webContentLink": "https://drive.google.com/uc?id=1pYWRooAVChr8YAk_98lySXX2qvLYMEtk&export=download"
+                      },
+                      {
+                        "id": "1AQ8Y_Mw5EWUt1-bmWlRYmvgxmxUEVSyD",
+                        "name": "Unit-2 Mosfet (1).pdf",
+                        "mimeType": "application/pdf",
+                        "children": [],
+                        "webViewLink": "https://drive.google.com/file/d/1AQ8Y_Mw5EWUt1-bmWlRYmvgxmxUEVSyD/preview",
+                        "webContentLink": "https://drive.google.com/uc?id=1AQ8Y_Mw5EWUt1-bmWlRYmvgxmxUEVSyD&export=download"
+                      },
+                      {
+                        "id": "1o5tELOAl36nnm_uDqjzeN1wdSGgPiqu8",
+                        "name": "Unit-3 Mosfet (2).pdf",
+                        "mimeType": "application/pdf",
+                        "children": [],
+                        "webViewLink": "https://drive.google.com/file/d/1o5tELOAl36nnm_uDqjzeN1wdSGgPiqu8/preview",
+                        "webContentLink": "https://drive.google.com/uc?id=1o5tELOAl36nnm_uDqjzeN1wdSGgPiqu8&export=download"
+                      },
+                      {
+                        "id": "1VFed5xIMLYL3AVW8V2QP2OQN2NdAstI9",
+                        "name": "Unit-4 Neg Feedback (1).pdf",
+                        "mimeType": "application/pdf",
+                        "children": [],
+                        "webViewLink": "https://drive.google.com/file/d/1VFed5xIMLYL3AVW8V2QP2OQN2NdAstI9/preview",
+                        "webContentLink": "https://drive.google.com/uc?id=1VFed5xIMLYL3AVW8V2QP2OQN2NdAstI9&export=download"
+                      },
+                      {
+                        "id": "1v21VcUCD_KDtcxXqlK9pgHS_mUuAoYz-",
+                        "name": "Unit-5 Op Amp (1).pdf",
+                        "mimeType": "application/pdf",
+                        "children": [],
+                        "webViewLink": "https://drive.google.com/file/d/1v21VcUCD_KDtcxXqlK9pgHS_mUuAoYz-/preview",
+                        "webContentLink": "https://drive.google.com/uc?id=1v21VcUCD_KDtcxXqlK9pgHS_mUuAoYz-&export=download"
+                      }
+                    ]
+                  },
+                  {
                     "id": "1iV3QlQqgNnC54kw1xQaTCB-SLAwjmHra",
                     "name": "Unit 5 Short Notes_Vijay.pdf",
                     "mimeType": "application/pdf",
@@ -7222,12 +7570,60 @@
                 "mimeType": "application/vnd.google-apps.folder",
                 "children": [
                   {
+                    "id": "1mPx97y0_QlWb8wNTfKDf1iXJJwBoq0OQ",
+                    "name": "amc see qp 2.pdf",
+                    "mimeType": "application/pdf",
+                    "children": [],
+                    "webViewLink": "https://drive.google.com/file/d/1mPx97y0_QlWb8wNTfKDf1iXJJwBoq0OQ/preview",
+                    "webContentLink": "https://drive.google.com/uc?id=1mPx97y0_QlWb8wNTfKDf1iXJJwBoq0OQ&export=download"
+                  },
+                  {
+                    "id": "1GClQLpheBxVPfFJE36pRCzEKYLc4Q16I",
+                    "name": "AMC-2021-MQP.pdf",
+                    "mimeType": "application/pdf",
+                    "children": [],
+                    "webViewLink": "https://drive.google.com/file/d/1GClQLpheBxVPfFJE36pRCzEKYLc4Q16I/preview",
+                    "webContentLink": "https://drive.google.com/uc?id=1GClQLpheBxVPfFJE36pRCzEKYLc4Q16I&export=download"
+                  },
+                  {
+                    "id": "1WDn-KGC7Rgot0IC92rdPXOTeiXMLrIfn",
+                    "name": "AMCPYQ.pdf",
+                    "mimeType": "application/pdf",
+                    "children": [],
+                    "webViewLink": "https://drive.google.com/file/d/1WDn-KGC7Rgot0IC92rdPXOTeiXMLrIfn/preview",
+                    "webContentLink": "https://drive.google.com/uc?id=1WDn-KGC7Rgot0IC92rdPXOTeiXMLrIfn&export=download"
+                  },
+                  {
+                    "id": "16sTksaxFrcUtb5834GcFdisPc8fW_QOi",
+                    "name": "Document from Ashrith.pdf",
+                    "mimeType": "application/pdf",
+                    "children": [],
+                    "webViewLink": "https://drive.google.com/file/d/16sTksaxFrcUtb5834GcFdisPc8fW_QOi/preview",
+                    "webContentLink": "https://drive.google.com/uc?id=16sTksaxFrcUtb5834GcFdisPc8fW_QOi&export=download"
+                  },
+                  {
+                    "id": "1nwWRTgWIYDNwBJ4v01ziyBBhEBR4GMLM",
+                    "name": "EC233AI.pdf",
+                    "mimeType": "application/pdf",
+                    "children": [],
+                    "webViewLink": "https://drive.google.com/file/d/1nwWRTgWIYDNwBJ4v01ziyBBhEBR4GMLM/preview",
+                    "webContentLink": "https://drive.google.com/uc?id=1nwWRTgWIYDNwBJ4v01ziyBBhEBR4GMLM&export=download"
+                  },
+                  {
                     "id": "11bWRyYtL_cLF4PkCA3GY_560zQ1KEMAf",
                     "name": "previous year Quiz & test 1 paper.pdf",
                     "mimeType": "application/pdf",
                     "children": [],
                     "webViewLink": "https://drive.google.com/file/d/11bWRyYtL_cLF4PkCA3GY_560zQ1KEMAf/preview",
                     "webContentLink": "https://drive.google.com/uc?id=11bWRyYtL_cLF4PkCA3GY_560zQ1KEMAf&export=download"
+                  },
+                  {
+                    "id": "1wJHpvlBGRVAEyV_zTYjjyaWid3J4xtea",
+                    "name": "SEE Qps.pdf",
+                    "mimeType": "application/pdf",
+                    "children": [],
+                    "webViewLink": "https://drive.google.com/file/d/1wJHpvlBGRVAEyV_zTYjjyaWid3J4xtea/preview",
+                    "webContentLink": "https://drive.google.com/uc?id=1wJHpvlBGRVAEyV_zTYjjyaWid3J4xtea&export=download"
                   },
                   {
                     "id": "13OPqucTZK2JiW0VWDXt_RrdNTkqPvL7T",
@@ -7698,6 +8094,101 @@
                     "children": [],
                     "webViewLink": "https://drive.google.com/file/d/1INkBVmeH8dJbsN0EslRgSS7m67z0oPFk/preview",
                     "webContentLink": "https://drive.google.com/uc?id=1INkBVmeH8dJbsN0EslRgSS7m67z0oPFk&export=download"
+                  },
+                  {
+                    "id": "1Nddna9LC3bPTmpKnwO3C_V1BJREHNDaG",
+                    "name": "New",
+                    "mimeType": "application/vnd.google-apps.folder",
+                    "children": [
+                      {
+                        "id": "1Hpx-WwjFHQjLEB4Ei0HdWlSaIOvsC_mG",
+                        "name": "EC234AI.pdf",
+                        "mimeType": "application/pdf",
+                        "children": [],
+                        "webViewLink": "https://drive.google.com/file/d/1Hpx-WwjFHQjLEB4Ei0HdWlSaIOvsC_mG/preview",
+                        "webContentLink": "https://drive.google.com/uc?id=1Hpx-WwjFHQjLEB4Ei0HdWlSaIOvsC_mG&export=download"
+                      },
+                      {
+                        "id": "16pOc_UjJz8XAFkuTlHBbdfho9tIlEY97",
+                        "name": "Processor_Design_Notes_1_Vth Unit (1).pdf",
+                        "mimeType": "application/pdf",
+                        "children": [],
+                        "webViewLink": "https://drive.google.com/file/d/16pOc_UjJz8XAFkuTlHBbdfho9tIlEY97/preview",
+                        "webContentLink": "https://drive.google.com/uc?id=16pOc_UjJz8XAFkuTlHBbdfho9tIlEY97&export=download"
+                      },
+                      {
+                        "id": "1JCsH2cH3oRS5Bc2y7kvhxZeMjpyVuS42",
+                        "name": "Processor_Design_Notes_2_Vth Unit (1).pdf",
+                        "mimeType": "application/pdf",
+                        "children": [],
+                        "webViewLink": "https://drive.google.com/file/d/1JCsH2cH3oRS5Bc2y7kvhxZeMjpyVuS42/preview",
+                        "webContentLink": "https://drive.google.com/uc?id=1JCsH2cH3oRS5Bc2y7kvhxZeMjpyVuS42&export=download"
+                      },
+                      {
+                        "id": "1-XHa38OMPrJ6B40py67Pd6MxCjeWIYvc",
+                        "name": "UNIT 1.pdf",
+                        "mimeType": "application/pdf",
+                        "children": [],
+                        "webViewLink": "https://drive.google.com/file/d/1-XHa38OMPrJ6B40py67Pd6MxCjeWIYvc/preview",
+                        "webContentLink": "https://drive.google.com/uc?id=1-XHa38OMPrJ6B40py67Pd6MxCjeWIYvc&export=download"
+                      },
+                      {
+                        "id": "1GU9xDh4-NUyG4Hi1GRoyO4E4jlllibhe",
+                        "name": "UNIT 2.pdf",
+                        "mimeType": "application/pdf",
+                        "children": [],
+                        "webViewLink": "https://drive.google.com/file/d/1GU9xDh4-NUyG4Hi1GRoyO4E4jlllibhe/preview",
+                        "webContentLink": "https://drive.google.com/uc?id=1GU9xDh4-NUyG4Hi1GRoyO4E4jlllibhe&export=download"
+                      },
+                      {
+                        "id": "1pZZh4WzPS_vBTaNUU2wMjG6l3GpLIi5f",
+                        "name": "UNIT 3.pdf",
+                        "mimeType": "application/pdf",
+                        "children": [],
+                        "webViewLink": "https://drive.google.com/file/d/1pZZh4WzPS_vBTaNUU2wMjG6l3GpLIi5f/preview",
+                        "webContentLink": "https://drive.google.com/uc?id=1pZZh4WzPS_vBTaNUU2wMjG6l3GpLIi5f&export=download"
+                      },
+                      {
+                        "id": "1OJFFFbdOQ61sWR6ze_66VfNELuRI26fg",
+                        "name": "UNIT 4.pdf",
+                        "mimeType": "application/pdf",
+                        "children": [],
+                        "webViewLink": "https://drive.google.com/file/d/1OJFFFbdOQ61sWR6ze_66VfNELuRI26fg/preview",
+                        "webContentLink": "https://drive.google.com/uc?id=1OJFFFbdOQ61sWR6ze_66VfNELuRI26fg&export=download"
+                      },
+                      {
+                        "id": "1HYm1OuutZiIyJhjo1678ehDCkU9ZVX2j",
+                        "name": "Unit 5 Processor logic design (1).pdf",
+                        "mimeType": "application/pdf",
+                        "children": [],
+                        "webViewLink": "https://drive.google.com/file/d/1HYm1OuutZiIyJhjo1678ehDCkU9ZVX2j/preview",
+                        "webContentLink": "https://drive.google.com/uc?id=1HYm1OuutZiIyJhjo1678ehDCkU9ZVX2j&export=download"
+                      },
+                      {
+                        "id": "1NQJQGChnDV_Re0E9Y8AoEnO9fufyyF1i",
+                        "name": "UNIT 5.pdf",
+                        "mimeType": "application/pdf",
+                        "children": [],
+                        "webViewLink": "https://drive.google.com/file/d/1NQJQGChnDV_Re0E9Y8AoEnO9fufyyF1i/preview",
+                        "webContentLink": "https://drive.google.com/uc?id=1NQJQGChnDV_Re0E9Y8AoEnO9fufyyF1i&export=download"
+                      },
+                      {
+                        "id": "1ZZG1XKJAsA88gyPhHJF1zHp7ZDGKX-N_",
+                        "name": "Unit4_.pdf",
+                        "mimeType": "application/pdf",
+                        "children": [],
+                        "webViewLink": "https://drive.google.com/file/d/1ZZG1XKJAsA88gyPhHJF1zHp7ZDGKX-N_/preview",
+                        "webContentLink": "https://drive.google.com/uc?id=1ZZG1XKJAsA88gyPhHJF1zHp7ZDGKX-N_&export=download"
+                      },
+                      {
+                        "id": "1AePdlag3Ei4rDbOkNJj79qUY0jnJeRkk",
+                        "name": "Unit5_PLU design_BVU.pdf",
+                        "mimeType": "application/pdf",
+                        "children": [],
+                        "webViewLink": "https://drive.google.com/file/d/1AePdlag3Ei4rDbOkNJj79qUY0jnJeRkk/preview",
+                        "webContentLink": "https://drive.google.com/uc?id=1AePdlag3Ei4rDbOkNJj79qUY0jnJeRkk&export=download"
+                      }
+                    ]
                   },
                   {
                     "id": "1aZLAVXM6A-nJT_bvW_pnKwA0gMKSUnSk",
