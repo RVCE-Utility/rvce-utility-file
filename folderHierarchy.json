@@ -17459,21 +17459,6 @@
         "mimeType": "application/vnd.google-apps.folder",
         "children": [
           {
-            "id": "1dcYHPcbC_YhqiJyHfHvtbb4f2xBbwIm0",
-            "name": "Advance Algorithm",
-            "mimeType": "application/vnd.google-apps.folder",
-            "children": [
-              {
-                "id": "1W7vOSNK1x89qsSHpc88T1bXYl1uSD_Sp",
-                "name": "advanced algorithms textbook.pdf",
-                "mimeType": "application/pdf",
-                "children": [],
-                "webViewLink": "https://drive.google.com/file/d/1W7vOSNK1x89qsSHpc88T1bXYl1uSD_Sp/preview",
-                "webContentLink": "https://drive.google.com/uc?id=1W7vOSNK1x89qsSHpc88T1bXYl1uSD_Sp&export=download"
-              }
-            ]
-          },
-          {
             "id": "1rsEFMGEF3JWByYwRgJeuk1Sl4bnTN5dN",
             "name": "AIML",
             "mimeType": "application/vnd.google-apps.folder",
@@ -17856,228 +17841,6 @@
             ]
           },
           {
-            "id": "1l_v1bg8A-WAgoc1deM9SlF4VfXK31a8D",
-            "name": "CC",
-            "mimeType": "application/vnd.google-apps.folder",
-            "children": [
-              {
-                "id": "1PzjI9sImCWa1kdDEs5lUGY4dstj7nf_O",
-                "name": "PAPERS",
-                "mimeType": "application/vnd.google-apps.folder",
-                "children": [
-                  {
-                    "id": "1aTH6D8YRUFRrmdPo6AWKunY03tKfEtNl",
-                    "name": "CIEs 2023",
-                    "mimeType": "application/vnd.google-apps.folder",
-                    "children": [
-                      {
-                        "id": "1RNKrW9lejtoJmXev-nVcuGhZicgeEsWF",
-                        "name": "CIES 2023.pdf",
-                        "mimeType": "application/pdf",
-                        "children": [],
-                        "webViewLink": "https://drive.google.com/file/d/1RNKrW9lejtoJmXev-nVcuGhZicgeEsWF/preview",
-                        "webContentLink": "https://drive.google.com/uc?id=1RNKrW9lejtoJmXev-nVcuGhZicgeEsWF&export=download"
-                      }
-                    ]
-                  },
-                  {
-                    "id": "1R7Z0GDioX9KYWPvvYgoLrVWXpzAOfg48",
-                    "name": "CIEs 2025",
-                    "mimeType": "application/vnd.google-apps.folder",
-                    "children": [
-                      {
-                        "id": "1sWYpZlnz64wQfgv2lt3dWWRo3WpRIfmM",
-                        "name": "CIE 1 2025.pdf",
-                        "mimeType": "application/pdf",
-                        "children": [],
-                        "webViewLink": "https://drive.google.com/file/d/1sWYpZlnz64wQfgv2lt3dWWRo3WpRIfmM/preview",
-                        "webContentLink": "https://drive.google.com/uc?id=1sWYpZlnz64wQfgv2lt3dWWRo3WpRIfmM&export=download"
-                      },
-                      {
-                        "id": "1o63CESZbVYvJXfqUf001aYQNDSOdwsIf",
-                        "name": "CIE 1 SCHEME.pdf",
-                        "mimeType": "application/pdf",
-                        "children": [],
-                        "webViewLink": "https://drive.google.com/file/d/1o63CESZbVYvJXfqUf001aYQNDSOdwsIf/preview",
-                        "webContentLink": "https://drive.google.com/uc?id=1o63CESZbVYvJXfqUf001aYQNDSOdwsIf&export=download"
-                      },
-                      {
-                        "id": "1oWWGbLF8yUv8UkQDY3IJY4L7t1J5M6_B",
-                        "name": "CIE 2 2025.pdf",
-                        "mimeType": "application/pdf",
-                        "children": [],
-                        "webViewLink": "https://drive.google.com/file/d/1oWWGbLF8yUv8UkQDY3IJY4L7t1J5M6_B/preview",
-                        "webContentLink": "https://drive.google.com/uc?id=1oWWGbLF8yUv8UkQDY3IJY4L7t1J5M6_B&export=download"
-                      },
-                      {
-                        "id": "1gfpziedTIb9cKd0kO4oQarUuyC9FOWaV",
-                        "name": "CIE 3 2025.pdf",
-                        "mimeType": "application/pdf",
-                        "children": [],
-                        "webViewLink": "https://drive.google.com/file/d/1gfpziedTIb9cKd0kO4oQarUuyC9FOWaV/preview",
-                        "webContentLink": "https://drive.google.com/uc?id=1gfpziedTIb9cKd0kO4oQarUuyC9FOWaV&export=download"
-                      },
-                      {
-                        "id": "1pZuB_sGrWYEtQuTRkuTkaobxOmcHqNo2",
-                        "name": "RETEST UNIT 1 & 2_.pdf",
-                        "mimeType": "application/pdf",
-                        "children": [],
-                        "webViewLink": "https://drive.google.com/file/d/1pZuB_sGrWYEtQuTRkuTkaobxOmcHqNo2/preview",
-                        "webContentLink": "https://drive.google.com/uc?id=1pZuB_sGrWYEtQuTRkuTkaobxOmcHqNo2&export=download"
-                      }
-                    ]
-                  },
-                  {
-                    "id": "1bLUexogqKo7CPU8ZWn19teJLBXf8b6O9",
-                    "name": "MQP_.pdf",
-                    "mimeType": "application/pdf",
-                    "children": [],
-                    "webViewLink": "https://drive.google.com/file/d/1bLUexogqKo7CPU8ZWn19teJLBXf8b6O9/preview",
-                    "webContentLink": "https://drive.google.com/uc?id=1bLUexogqKo7CPU8ZWn19teJLBXf8b6O9&export=download"
-                  },
-                  {
-                    "id": "1UoLsChh6Sr1vLOSCR1DYAvvIfWbIxfye",
-                    "name": "SEE 2025.pdf",
-                    "mimeType": "application/pdf",
-                    "children": [],
-                    "webViewLink": "https://drive.google.com/file/d/1UoLsChh6Sr1vLOSCR1DYAvvIfWbIxfye/preview",
-                    "webContentLink": "https://drive.google.com/uc?id=1UoLsChh6Sr1vLOSCR1DYAvvIfWbIxfye&export=download"
-                  }
-                ]
-              },
-              {
-                "id": "1iHndc1UXb5pt1DHlby4LMz7Tvi2f9t16",
-                "name": "SEEs old",
-                "mimeType": "application/vnd.google-apps.folder",
-                "children": [
-                  {
-                    "id": "1Itdvuu3OhTlB8BA3ezNoaRkCIOfjwhnk",
-                    "name": "16IS7F4.pdf",
-                    "mimeType": "application/pdf",
-                    "children": [],
-                    "webViewLink": "https://drive.google.com/file/d/1Itdvuu3OhTlB8BA3ezNoaRkCIOfjwhnk/preview",
-                    "webContentLink": "https://drive.google.com/uc?id=1Itdvuu3OhTlB8BA3ezNoaRkCIOfjwhnk&export=download"
-                  },
-                  {
-                    "id": "184mp66qUvjlvP8RvPJo47EBqYM3c0ZaE",
-                    "name": "18IS6D3(1).pdf",
-                    "mimeType": "application/pdf",
-                    "children": [],
-                    "webViewLink": "https://drive.google.com/file/d/184mp66qUvjlvP8RvPJo47EBqYM3c0ZaE/preview",
-                    "webContentLink": "https://drive.google.com/uc?id=184mp66qUvjlvP8RvPJo47EBqYM3c0ZaE&export=download"
-                  },
-                  {
-                    "id": "1wFBc3msvFjYNnq2gw_r_TLEMUdPqO0-i",
-                    "name": "18IS6D3.pdf",
-                    "mimeType": "application/pdf",
-                    "children": [],
-                    "webViewLink": "https://drive.google.com/file/d/1wFBc3msvFjYNnq2gw_r_TLEMUdPqO0-i/preview",
-                    "webContentLink": "https://drive.google.com/uc?id=1wFBc3msvFjYNnq2gw_r_TLEMUdPqO0-i&export=download"
-                  },
-                  {
-                    "id": "1bZ3ZVpnQiSpHhSInrpCUEPkVRRjbZr6D",
-                    "name": "PREV YEAR SEE.pdf",
-                    "mimeType": "application/pdf",
-                    "children": [],
-                    "webViewLink": "https://drive.google.com/file/d/1bZ3ZVpnQiSpHhSInrpCUEPkVRRjbZr6D/preview",
-                    "webContentLink": "https://drive.google.com/uc?id=1bZ3ZVpnQiSpHhSInrpCUEPkVRRjbZr6D&export=download"
-                  }
-                ]
-              },
-              {
-                "id": "1w7ytsFWhbnuxQd8nlMFLUxREBFAzYj6I",
-                "name": "SYLLABUS.png",
-                "mimeType": "image/png",
-                "children": [],
-                "webViewLink": "https://drive.google.com/file/d/1w7ytsFWhbnuxQd8nlMFLUxREBFAzYj6I/preview",
-                "webContentLink": "https://drive.google.com/uc?id=1w7ytsFWhbnuxQd8nlMFLUxREBFAzYj6I&export=download"
-              },
-              {
-                "id": "1WewkoWdtvYKx6h9lJ5X3kjPvfak8DKKK",
-                "name": "TEXTBOOK.pdf",
-                "mimeType": "application/pdf",
-                "children": [],
-                "webViewLink": "https://drive.google.com/file/d/1WewkoWdtvYKx6h9lJ5X3kjPvfak8DKKK/preview",
-                "webContentLink": "https://drive.google.com/uc?id=1WewkoWdtvYKx6h9lJ5X3kjPvfak8DKKK&export=download"
-              },
-              {
-                "id": "1hiQiTqWCtjD-BFOgEV5rPbGZQXQWiMIf",
-                "name": "UNIT 1",
-                "mimeType": "application/vnd.google-apps.folder",
-                "children": [
-                  {
-                    "id": "1xtNKnqDr0ttDsD5LIM9jKCztoksIShCW",
-                    "name": "UNIT 1 PPT.pdf",
-                    "mimeType": "application/pdf",
-                    "children": [],
-                    "webViewLink": "https://drive.google.com/file/d/1xtNKnqDr0ttDsD5LIM9jKCztoksIShCW/preview",
-                    "webContentLink": "https://drive.google.com/uc?id=1xtNKnqDr0ttDsD5LIM9jKCztoksIShCW&export=download"
-                  }
-                ]
-              },
-              {
-                "id": "1lwx8eIwZDloFqswNBK2y2uJEAffahCy3",
-                "name": "UNIT 2",
-                "mimeType": "application/vnd.google-apps.folder",
-                "children": [
-                  {
-                    "id": "1TTEV_fuNlpBzU79hXA56jcseTCH1tZzP",
-                    "name": "UNIT 2 PPT.pdf",
-                    "mimeType": "application/pdf",
-                    "children": [],
-                    "webViewLink": "https://drive.google.com/file/d/1TTEV_fuNlpBzU79hXA56jcseTCH1tZzP/preview",
-                    "webContentLink": "https://drive.google.com/uc?id=1TTEV_fuNlpBzU79hXA56jcseTCH1tZzP&export=download"
-                  }
-                ]
-              },
-              {
-                "id": "1sCj04HvJnsnfkMlqVibMXWsLB6QW8gA1",
-                "name": "UNIT 3",
-                "mimeType": "application/vnd.google-apps.folder",
-                "children": [
-                  {
-                    "id": "1IFOeRkNEcIoOwuhXCLdvULuSesiZjQze",
-                    "name": "UNIT 3 PPT.pdf",
-                    "mimeType": "application/pdf",
-                    "children": [],
-                    "webViewLink": "https://drive.google.com/file/d/1IFOeRkNEcIoOwuhXCLdvULuSesiZjQze/preview",
-                    "webContentLink": "https://drive.google.com/uc?id=1IFOeRkNEcIoOwuhXCLdvULuSesiZjQze&export=download"
-                  }
-                ]
-              },
-              {
-                "id": "1iy4fZxcqdiY0VIBA_IzbpGyr_iwO2M3V",
-                "name": "UNIT 4",
-                "mimeType": "application/vnd.google-apps.folder",
-                "children": [
-                  {
-                    "id": "1qxLlYpYNbs3H8vSpOCWTzi3Sze99ma71",
-                    "name": "UNIT 4 CLOUD .pdf",
-                    "mimeType": "application/pdf",
-                    "children": [],
-                    "webViewLink": "https://drive.google.com/file/d/1qxLlYpYNbs3H8vSpOCWTzi3Sze99ma71/preview",
-                    "webContentLink": "https://drive.google.com/uc?id=1qxLlYpYNbs3H8vSpOCWTzi3Sze99ma71&export=download"
-                  }
-                ]
-              },
-              {
-                "id": "1v3YDAN5hzJuUgMCtTKjBwwbKYeWUUCVb",
-                "name": "UNIT 5",
-                "mimeType": "application/vnd.google-apps.folder",
-                "children": [
-                  {
-                    "id": "19ZqRd7kZziJH53ZTX9qLgoplp3SWpNHV",
-                    "name": "UNIT 5 CLOUD.pdf",
-                    "mimeType": "application/pdf",
-                    "children": [],
-                    "webViewLink": "https://drive.google.com/file/d/19ZqRd7kZziJH53ZTX9qLgoplp3SWpNHV/preview",
-                    "webContentLink": "https://drive.google.com/uc?id=19ZqRd7kZziJH53ZTX9qLgoplp3SWpNHV&export=download"
-                  }
-                ]
-              }
-            ]
-          },
-          {
             "id": "12PGX33mQf2kTflnC_-md8nm0-cSZ1aaN",
             "name": "DBMS",
             "mimeType": "application/vnd.google-apps.folder",
@@ -18344,6 +18107,768 @@
                     "children": [],
                     "webViewLink": "https://drive.google.com/file/d/14QkovJD-qADUFMyCDLS68VGza8OdFrKa/preview",
                     "webContentLink": "https://drive.google.com/uc?id=14QkovJD-qADUFMyCDLS68VGza8OdFrKa&export=download"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "1jRsnRauIENEmLlM_0nwK9GUSTsW4xUrV",
+            "name": "ELECTIVE (XX355TBX)",
+            "mimeType": "application/vnd.google-apps.folder",
+            "children": [
+              {
+                "id": "1qMOtsLIVGiwVbvHkOwCbHGA5_Y9q5JKa",
+                "name": "ADVANCED ALGORITHMS",
+                "mimeType": "application/vnd.google-apps.folder",
+                "children": [
+                  {
+                    "id": "140mBoRJggxWPmilhYDNUZ07ej78hbwqi",
+                    "name": "advanced algorithms textbook.pdf",
+                    "mimeType": "application/pdf",
+                    "children": [],
+                    "webViewLink": "https://drive.google.com/file/d/140mBoRJggxWPmilhYDNUZ07ej78hbwqi/preview",
+                    "webContentLink": "https://drive.google.com/uc?id=140mBoRJggxWPmilhYDNUZ07ej78hbwqi&export=download"
+                  },
+                  {
+                    "id": "1d1-F0LWN7zTiBj_kEVjbkMh_EhD38mFr",
+                    "name": "Papers",
+                    "mimeType": "application/vnd.google-apps.folder",
+                    "children": [
+                      {
+                        "id": "1W0lnyPNvTLHFX7RyeybG8zxGpOCb_e4-",
+                        "name": "2024 CIE",
+                        "mimeType": "application/vnd.google-apps.folder",
+                        "children": [
+                          {
+                            "id": "1VrE3ynpE5KMYjaRlG0tCqcm6tQlDJQzJ",
+                            "name": "AA CIE 1.pdf",
+                            "mimeType": "application/pdf",
+                            "children": [],
+                            "webViewLink": "https://drive.google.com/file/d/1VrE3ynpE5KMYjaRlG0tCqcm6tQlDJQzJ/preview",
+                            "webContentLink": "https://drive.google.com/uc?id=1VrE3ynpE5KMYjaRlG0tCqcm6tQlDJQzJ&export=download"
+                          },
+                          {
+                            "id": "1Er2aLdmdYpJjJNFrHfYz9m3m9xpYzmfF",
+                            "name": "AA CIE 2.pdf",
+                            "mimeType": "application/pdf",
+                            "children": [],
+                            "webViewLink": "https://drive.google.com/file/d/1Er2aLdmdYpJjJNFrHfYz9m3m9xpYzmfF/preview",
+                            "webContentLink": "https://drive.google.com/uc?id=1Er2aLdmdYpJjJNFrHfYz9m3m9xpYzmfF&export=download"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "19WJ-j4b_VML51BnNi2T0vNG4pBO8QSb6",
+                        "name": "21CS55B3.pdf",
+                        "mimeType": "application/pdf",
+                        "children": [],
+                        "webViewLink": "https://drive.google.com/file/d/19WJ-j4b_VML51BnNi2T0vNG4pBO8QSb6/preview",
+                        "webContentLink": "https://drive.google.com/uc?id=19WJ-j4b_VML51BnNi2T0vNG4pBO8QSb6&export=download"
+                      },
+                      {
+                        "id": "1YNWBlv-NF7izw7t2TLyXlxgqaWdrmWAu",
+                        "name": "CS355TBB.pdf",
+                        "mimeType": "application/pdf",
+                        "children": [],
+                        "webViewLink": "https://drive.google.com/file/d/1YNWBlv-NF7izw7t2TLyXlxgqaWdrmWAu/preview",
+                        "webContentLink": "https://drive.google.com/uc?id=1YNWBlv-NF7izw7t2TLyXlxgqaWdrmWAu&export=download"
+                      },
+                      {
+                        "id": "1dxvCVR_bOFzU51j3XxU9HdQYTRwwqJVZ",
+                        "name": "My Papers",
+                        "mimeType": "application/vnd.google-apps.folder",
+                        "children": [
+                          {
+                            "id": "1wt34POao73VMisfHw0pU3lzegRWP37MF",
+                            "name": "AA_CIE2_SCHEME_DEC2025.pdf",
+                            "mimeType": "application/pdf",
+                            "children": [],
+                            "webViewLink": "https://drive.google.com/file/d/1wt34POao73VMisfHw0pU3lzegRWP37MF/preview",
+                            "webContentLink": "https://drive.google.com/uc?id=1wt34POao73VMisfHw0pU3lzegRWP37MF&export=download"
+                          },
+                          {
+                            "id": "1SU5GIrYLtU3QEBLm1Xmh0DSs8xt4VwDH",
+                            "name": "CIE 1 scheme.pdf",
+                            "mimeType": "application/pdf",
+                            "children": [],
+                            "webViewLink": "https://drive.google.com/file/d/1SU5GIrYLtU3QEBLm1Xmh0DSs8xt4VwDH/preview",
+                            "webContentLink": "https://drive.google.com/uc?id=1SU5GIrYLtU3QEBLm1Xmh0DSs8xt4VwDH&export=download"
+                          },
+                          {
+                            "id": "1pHFit8oRwcA-ts61AK7P5RShy31Q2Lm2",
+                            "name": "CIE 1.pdf",
+                            "mimeType": "application/pdf",
+                            "children": [],
+                            "webViewLink": "https://drive.google.com/file/d/1pHFit8oRwcA-ts61AK7P5RShy31Q2Lm2/preview",
+                            "webContentLink": "https://drive.google.com/uc?id=1pHFit8oRwcA-ts61AK7P5RShy31Q2Lm2&export=download"
+                          },
+                          {
+                            "id": "136vkdTrcR5IVrPVln3-kQcOIi8NT38Mb",
+                            "name": "CIE 2.pdf",
+                            "mimeType": "application/pdf",
+                            "children": [],
+                            "webViewLink": "https://drive.google.com/file/d/136vkdTrcR5IVrPVln3-kQcOIi8NT38Mb/preview",
+                            "webContentLink": "https://drive.google.com/uc?id=136vkdTrcR5IVrPVln3-kQcOIi8NT38Mb&export=download"
+                          },
+                          {
+                            "id": "17Yab0JAI4AaVzwP6NmS4zamgU8VZfzcW",
+                            "name": "CIE 3.pdf",
+                            "mimeType": "application/pdf",
+                            "children": [],
+                            "webViewLink": "https://drive.google.com/file/d/17Yab0JAI4AaVzwP6NmS4zamgU8VZfzcW/preview",
+                            "webContentLink": "https://drive.google.com/uc?id=17Yab0JAI4AaVzwP6NmS4zamgU8VZfzcW&export=download"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "1T4sx0h9MN8QTwfYqCVP6f6nHxRbwY0aS",
+                "name": "CLOUD COMPUTING",
+                "mimeType": "application/vnd.google-apps.folder",
+                "children": [
+                  {
+                    "id": "1yNk0jJsatE8eHy-FNt-ZKLbcGVocxwsZ",
+                    "name": ".DS_Store",
+                    "mimeType": "application/octet-stream",
+                    "children": [],
+                    "webViewLink": "https://drive.google.com/file/d/1yNk0jJsatE8eHy-FNt-ZKLbcGVocxwsZ/preview",
+                    "webContentLink": "https://drive.google.com/uc?id=1yNk0jJsatE8eHy-FNt-ZKLbcGVocxwsZ&export=download"
+                  },
+                  {
+                    "id": "1LngYUg5GotxOaTf3fSsmNaZYkAgIDAbP",
+                    "name": "additional-unit-1-syllabus.jpeg",
+                    "mimeType": "image/jpeg",
+                    "children": [],
+                    "webViewLink": "https://drive.google.com/file/d/1LngYUg5GotxOaTf3fSsmNaZYkAgIDAbP/preview",
+                    "webContentLink": "https://drive.google.com/uc?id=1LngYUg5GotxOaTf3fSsmNaZYkAgIDAbP&export=download"
+                  },
+                  {
+                    "id": "15pBrOttR5kvFvasRh85hc7RJFoqPrec3",
+                    "name": "EL",
+                    "mimeType": "application/vnd.google-apps.folder",
+                    "children": [
+                      {
+                        "id": "1vVXczjx5fUODIg8KuVUKXeFsi9gY96vr",
+                        "name": ".DS_Store",
+                        "mimeType": "application/octet-stream",
+                        "children": [],
+                        "webViewLink": "https://drive.google.com/file/d/1vVXczjx5fUODIg8KuVUKXeFsi9gY96vr/preview",
+                        "webContentLink": "https://drive.google.com/uc?id=1vVXczjx5fUODIg8KuVUKXeFsi9gY96vr&export=download"
+                      },
+                      {
+                        "id": "12E1Bc31LovAKj6VIg5oUxn8bzHglhoOn",
+                        "name": "Cloud EL Poster.pdf",
+                        "mimeType": "application/pdf",
+                        "children": [],
+                        "webViewLink": "https://drive.google.com/file/d/12E1Bc31LovAKj6VIg5oUxn8bzHglhoOn/preview",
+                        "webContentLink": "https://drive.google.com/uc?id=12E1Bc31LovAKj6VIg5oUxn8bzHglhoOn&export=download"
+                      },
+                      {
+                        "id": "1aR54K_M0ATEOJTIie17np7Z7veJ8fb3G",
+                        "name": "cloud_el_draft.pdf",
+                        "mimeType": "application/pdf",
+                        "children": [],
+                        "webViewLink": "https://drive.google.com/file/d/1aR54K_M0ATEOJTIie17np7Z7veJ8fb3G/preview",
+                        "webContentLink": "https://drive.google.com/uc?id=1aR54K_M0ATEOJTIie17np7Z7veJ8fb3G&export=download"
+                      },
+                      {
+                        "id": "1OQtTlBjcqLglarOSSNjbnwcVGokyzfep",
+                        "name": "cloudReport.pdf",
+                        "mimeType": "application/pdf",
+                        "children": [],
+                        "webViewLink": "https://drive.google.com/file/d/1OQtTlBjcqLglarOSSNjbnwcVGokyzfep/preview",
+                        "webContentLink": "https://drive.google.com/uc?id=1OQtTlBjcqLglarOSSNjbnwcVGokyzfep&export=download"
+                      },
+                      {
+                        "id": "1IVTe7LG8Px5khfeabJMwKiyiirgujmZb",
+                        "name": "Final_ppt.pdf",
+                        "mimeType": "application/pdf",
+                        "children": [],
+                        "webViewLink": "https://drive.google.com/file/d/1IVTe7LG8Px5khfeabJMwKiyiirgujmZb/preview",
+                        "webContentLink": "https://drive.google.com/uc?id=1IVTe7LG8Px5khfeabJMwKiyiirgujmZb&export=download"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "1NFoerMrJ_zjJrxd2a7ms7zybAei6yITL",
+                    "name": "PAPERS",
+                    "mimeType": "application/vnd.google-apps.folder",
+                    "children": [
+                      {
+                        "id": "1NMJQ1IQJpoi14I0CxnICcIUOjZxe9rHj",
+                        "name": ".DS_Store",
+                        "mimeType": "application/octet-stream",
+                        "children": [],
+                        "webViewLink": "https://drive.google.com/file/d/1NMJQ1IQJpoi14I0CxnICcIUOjZxe9rHj/preview",
+                        "webContentLink": "https://drive.google.com/uc?id=1NMJQ1IQJpoi14I0CxnICcIUOjZxe9rHj&export=download"
+                      },
+                      {
+                        "id": "1unr69XHtXjOlaUdfxJYd3uzcGMkeRvra",
+                        "name": "CIEs 2023",
+                        "mimeType": "application/vnd.google-apps.folder",
+                        "children": [
+                          {
+                            "id": "1l-cbYt34_R58l6R7xFTrUWWmon8_CA22",
+                            "name": "CIES 2023.pdf",
+                            "mimeType": "application/pdf",
+                            "children": [],
+                            "webViewLink": "https://drive.google.com/file/d/1l-cbYt34_R58l6R7xFTrUWWmon8_CA22/preview",
+                            "webContentLink": "https://drive.google.com/uc?id=1l-cbYt34_R58l6R7xFTrUWWmon8_CA22&export=download"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "1GF3iuYPVDh_K4VYMLKLft3QY9V8VmuDS",
+                        "name": "CIEs 2025",
+                        "mimeType": "application/vnd.google-apps.folder",
+                        "children": [
+                          {
+                            "id": "1-C7wkCK5YzmZcX_eGCiW5Knzfol3A9Q4",
+                            "name": "CIE 1 2025.pdf",
+                            "mimeType": "application/pdf",
+                            "children": [],
+                            "webViewLink": "https://drive.google.com/file/d/1-C7wkCK5YzmZcX_eGCiW5Knzfol3A9Q4/preview",
+                            "webContentLink": "https://drive.google.com/uc?id=1-C7wkCK5YzmZcX_eGCiW5Knzfol3A9Q4&export=download"
+                          },
+                          {
+                            "id": "19YmsMaWs2mIpt1haVpneDuv_jHgmwEnj",
+                            "name": "CIE 1 SCHEME.pdf",
+                            "mimeType": "application/pdf",
+                            "children": [],
+                            "webViewLink": "https://drive.google.com/file/d/19YmsMaWs2mIpt1haVpneDuv_jHgmwEnj/preview",
+                            "webContentLink": "https://drive.google.com/uc?id=19YmsMaWs2mIpt1haVpneDuv_jHgmwEnj&export=download"
+                          },
+                          {
+                            "id": "1xS69OgB2MEarmzXuebfi0HIbmrvxmZ2f",
+                            "name": "CIE 2 2025.pdf",
+                            "mimeType": "application/pdf",
+                            "children": [],
+                            "webViewLink": "https://drive.google.com/file/d/1xS69OgB2MEarmzXuebfi0HIbmrvxmZ2f/preview",
+                            "webContentLink": "https://drive.google.com/uc?id=1xS69OgB2MEarmzXuebfi0HIbmrvxmZ2f&export=download"
+                          },
+                          {
+                            "id": "1liuC63G8bH8uSIzclkcvuH951vxrT_AE",
+                            "name": "CIE 3 2025.pdf",
+                            "mimeType": "application/pdf",
+                            "children": [],
+                            "webViewLink": "https://drive.google.com/file/d/1liuC63G8bH8uSIzclkcvuH951vxrT_AE/preview",
+                            "webContentLink": "https://drive.google.com/uc?id=1liuC63G8bH8uSIzclkcvuH951vxrT_AE&export=download"
+                          },
+                          {
+                            "id": "171e5Cvodq7VhLujslFShzrdVXPIoJ3pl",
+                            "name": "RETEST UNIT 1 & 2_.pdf",
+                            "mimeType": "application/pdf",
+                            "children": [],
+                            "webViewLink": "https://drive.google.com/file/d/171e5Cvodq7VhLujslFShzrdVXPIoJ3pl/preview",
+                            "webContentLink": "https://drive.google.com/uc?id=171e5Cvodq7VhLujslFShzrdVXPIoJ3pl&export=download"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "1QAYhySomQXSR6QhM7kDF6sahfPdx00X4",
+                        "name": "CIEs 2026",
+                        "mimeType": "application/vnd.google-apps.folder",
+                        "children": [
+                          {
+                            "id": "1uqWt8dd1pWXU2l1EvkGOCPdDqBAcSQdw",
+                            "name": "cie1.jpeg",
+                            "mimeType": "image/jpeg",
+                            "children": [],
+                            "webViewLink": "https://drive.google.com/file/d/1uqWt8dd1pWXU2l1EvkGOCPdDqBAcSQdw/preview",
+                            "webContentLink": "https://drive.google.com/uc?id=1uqWt8dd1pWXU2l1EvkGOCPdDqBAcSQdw&export=download"
+                          },
+                          {
+                            "id": "1mo3ifDJ7cYl0emQYUX-OHUtuNBDDz_GC",
+                            "name": "cie2.jpeg",
+                            "mimeType": "image/jpeg",
+                            "children": [],
+                            "webViewLink": "https://drive.google.com/file/d/1mo3ifDJ7cYl0emQYUX-OHUtuNBDDz_GC/preview",
+                            "webContentLink": "https://drive.google.com/uc?id=1mo3ifDJ7cYl0emQYUX-OHUtuNBDDz_GC&export=download"
+                          },
+                          {
+                            "id": "1SNYdkBEcdFllVuVXkvmTXobAyxyOj96L",
+                            "name": "cie3.jpeg",
+                            "mimeType": "image/jpeg",
+                            "children": [],
+                            "webViewLink": "https://drive.google.com/file/d/1SNYdkBEcdFllVuVXkvmTXobAyxyOj96L/preview",
+                            "webContentLink": "https://drive.google.com/uc?id=1SNYdkBEcdFllVuVXkvmTXobAyxyOj96L&export=download"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "1CFJKzW4f_9-tAX44GwtzNV7M47S5quYG",
+                        "name": "MQP_.pdf",
+                        "mimeType": "application/pdf",
+                        "children": [],
+                        "webViewLink": "https://drive.google.com/file/d/1CFJKzW4f_9-tAX44GwtzNV7M47S5quYG/preview",
+                        "webContentLink": "https://drive.google.com/uc?id=1CFJKzW4f_9-tAX44GwtzNV7M47S5quYG&export=download"
+                      },
+                      {
+                        "id": "1ipvOKVNhZ69RCS2r_uPDj1EuopAc6z7D",
+                        "name": "SEE 2025.pdf",
+                        "mimeType": "application/pdf",
+                        "children": [],
+                        "webViewLink": "https://drive.google.com/file/d/1ipvOKVNhZ69RCS2r_uPDj1EuopAc6z7D/preview",
+                        "webContentLink": "https://drive.google.com/uc?id=1ipvOKVNhZ69RCS2r_uPDj1EuopAc6z7D&export=download"
+                      },
+                      {
+                        "id": "1i8f3Iv5x6yv4ScMeSbOHxJlH6GU5coHG",
+                        "name": "SEE 2026.pdf",
+                        "mimeType": "application/pdf",
+                        "children": [],
+                        "webViewLink": "https://drive.google.com/file/d/1i8f3Iv5x6yv4ScMeSbOHxJlH6GU5coHG/preview",
+                        "webContentLink": "https://drive.google.com/uc?id=1i8f3Iv5x6yv4ScMeSbOHxJlH6GU5coHG&export=download"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "1FcaD4dB7ZxXTjg8BJaOz_s50NNKTfI3N",
+                    "name": "PPT",
+                    "mimeType": "application/vnd.google-apps.folder",
+                    "children": [
+                      {
+                        "id": "1cSMaIxIckpyG8M5UBQPjINXUNbdrFvIH",
+                        "name": "CC UNIT 1.pdf",
+                        "mimeType": "application/pdf",
+                        "children": [],
+                        "webViewLink": "https://drive.google.com/file/d/1cSMaIxIckpyG8M5UBQPjINXUNbdrFvIH/preview",
+                        "webContentLink": "https://drive.google.com/uc?id=1cSMaIxIckpyG8M5UBQPjINXUNbdrFvIH&export=download"
+                      },
+                      {
+                        "id": "1bfeh5ZIrMJ8d-o0QJVYJITL7dZjUMKY1",
+                        "name": "CC_Unit1_25_Class1.pptx",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                        "children": [],
+                        "webViewLink": "https://docs.google.com/presentation/d/1bfeh5ZIrMJ8d-o0QJVYJITL7dZjUMKY1/edit?usp=drivesdk&ouid=106728917203791654051&rtpof=true&sd=true",
+                        "webContentLink": "https://drive.google.com/uc?id=1bfeh5ZIrMJ8d-o0QJVYJITL7dZjUMKY1&export=download"
+                      },
+                      {
+                        "id": "1UA-krvUGuUauQzMdi0W5eITGpzObLG59",
+                        "name": "CC_Unit1_25_Class2.pptx",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                        "children": [],
+                        "webViewLink": "https://docs.google.com/presentation/d/1UA-krvUGuUauQzMdi0W5eITGpzObLG59/edit?usp=drivesdk&ouid=106728917203791654051&rtpof=true&sd=true",
+                        "webContentLink": "https://drive.google.com/uc?id=1UA-krvUGuUauQzMdi0W5eITGpzObLG59&export=download"
+                      },
+                      {
+                        "id": "1Dsn29EMNOh9L-GSjzNGAEKcwKNL6IZ0q",
+                        "name": "CC_Unit1_25_Class3.pptx",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                        "children": [],
+                        "webViewLink": "https://docs.google.com/presentation/d/1Dsn29EMNOh9L-GSjzNGAEKcwKNL6IZ0q/edit?usp=drivesdk&ouid=106728917203791654051&rtpof=true&sd=true",
+                        "webContentLink": "https://drive.google.com/uc?id=1Dsn29EMNOh9L-GSjzNGAEKcwKNL6IZ0q&export=download"
+                      },
+                      {
+                        "id": "1t_j6pSfET5AU54qbFcVg39l83XGQ4ooQ",
+                        "name": "CC_Unit1_25_Class4.pptx",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                        "children": [],
+                        "webViewLink": "https://docs.google.com/presentation/d/1t_j6pSfET5AU54qbFcVg39l83XGQ4ooQ/edit?usp=drivesdk&ouid=106728917203791654051&rtpof=true&sd=true",
+                        "webContentLink": "https://drive.google.com/uc?id=1t_j6pSfET5AU54qbFcVg39l83XGQ4ooQ&export=download"
+                      },
+                      {
+                        "id": "1Ygd1nvkV-4OoOOf7rjb3urMlUJlrTUwi",
+                        "name": "CC_Unit1_25_Class5.pptx",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                        "children": [],
+                        "webViewLink": "https://docs.google.com/presentation/d/1Ygd1nvkV-4OoOOf7rjb3urMlUJlrTUwi/edit?usp=drivesdk&ouid=106728917203791654051&rtpof=true&sd=true",
+                        "webContentLink": "https://drive.google.com/uc?id=1Ygd1nvkV-4OoOOf7rjb3urMlUJlrTUwi&export=download"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "15qYUcB0iYXBoXEAYYJOs5DGhknewDKRh",
+                    "name": "SEEs old",
+                    "mimeType": "application/vnd.google-apps.folder",
+                    "children": [
+                      {
+                        "id": "1fX78u6KWDtOYTY-PrtzSa-suhd7_xYFu",
+                        "name": "16IS7F4.pdf",
+                        "mimeType": "application/pdf",
+                        "children": [],
+                        "webViewLink": "https://drive.google.com/file/d/1fX78u6KWDtOYTY-PrtzSa-suhd7_xYFu/preview",
+                        "webContentLink": "https://drive.google.com/uc?id=1fX78u6KWDtOYTY-PrtzSa-suhd7_xYFu&export=download"
+                      },
+                      {
+                        "id": "1rC5uKZ0RaJX184u-ThaSlogMVGTjipsu",
+                        "name": "18IS6D3(1).pdf",
+                        "mimeType": "application/pdf",
+                        "children": [],
+                        "webViewLink": "https://drive.google.com/file/d/1rC5uKZ0RaJX184u-ThaSlogMVGTjipsu/preview",
+                        "webContentLink": "https://drive.google.com/uc?id=1rC5uKZ0RaJX184u-ThaSlogMVGTjipsu&export=download"
+                      },
+                      {
+                        "id": "1LGxN2QlQ2Ab1qGbujn-esE_3Jo3ikTUn",
+                        "name": "18IS6D3.pdf",
+                        "mimeType": "application/pdf",
+                        "children": [],
+                        "webViewLink": "https://drive.google.com/file/d/1LGxN2QlQ2Ab1qGbujn-esE_3Jo3ikTUn/preview",
+                        "webContentLink": "https://drive.google.com/uc?id=1LGxN2QlQ2Ab1qGbujn-esE_3Jo3ikTUn&export=download"
+                      },
+                      {
+                        "id": "1Yfi7iND9VH5dRQ1ARkCElk9_OZUsiSHd",
+                        "name": "PREV YEAR SEE.pdf",
+                        "mimeType": "application/pdf",
+                        "children": [],
+                        "webViewLink": "https://drive.google.com/file/d/1Yfi7iND9VH5dRQ1ARkCElk9_OZUsiSHd/preview",
+                        "webContentLink": "https://drive.google.com/uc?id=1Yfi7iND9VH5dRQ1ARkCElk9_OZUsiSHd&export=download"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "17DoNETIWgYSj11FwuR4q_b2fNLcQn24c",
+                    "name": "SYLLABUS.png",
+                    "mimeType": "image/png",
+                    "children": [],
+                    "webViewLink": "https://drive.google.com/file/d/17DoNETIWgYSj11FwuR4q_b2fNLcQn24c/preview",
+                    "webContentLink": "https://drive.google.com/uc?id=17DoNETIWgYSj11FwuR4q_b2fNLcQn24c&export=download"
+                  },
+                  {
+                    "id": "19hw73SUNX_et3VETNt69Cfn1ugr3ws4J",
+                    "name": "TEXTBOOK.pdf",
+                    "mimeType": "application/pdf",
+                    "children": [],
+                    "webViewLink": "https://drive.google.com/file/d/19hw73SUNX_et3VETNt69Cfn1ugr3ws4J/preview",
+                    "webContentLink": "https://drive.google.com/uc?id=19hw73SUNX_et3VETNt69Cfn1ugr3ws4J&export=download"
+                  },
+                  {
+                    "id": "1-WhrRzgMLSFHgnVYLpkMJEf1Zgbr5Hdg",
+                    "name": "Unit 1",
+                    "mimeType": "application/vnd.google-apps.folder",
+                    "children": [
+                      {
+                        "id": "1lfJcNIqmHUo1AHrB_QB3pjRk5Wg_K1T0",
+                        "name": ".DS_Store",
+                        "mimeType": "application/octet-stream",
+                        "children": [],
+                        "webViewLink": "https://drive.google.com/file/d/1lfJcNIqmHUo1AHrB_QB3pjRk5Wg_K1T0/preview",
+                        "webContentLink": "https://drive.google.com/uc?id=1lfJcNIqmHUo1AHrB_QB3pjRk5Wg_K1T0&export=download"
+                      },
+                      {
+                        "id": "1tZMxSi7XERY3beSyI12QkHJrigHPUH_F",
+                        "name": "additional-syllabus.png.jpeg",
+                        "mimeType": "image/jpeg",
+                        "children": [],
+                        "webViewLink": "https://drive.google.com/file/d/1tZMxSi7XERY3beSyI12QkHJrigHPUH_F/preview",
+                        "webContentLink": "https://drive.google.com/uc?id=1tZMxSi7XERY3beSyI12QkHJrigHPUH_F&export=download"
+                      },
+                      {
+                        "id": "1hRgsKYbvTYyA4CJ9Ls8-U0f0qxOUQncD",
+                        "name": "CC UNIT 1.pdf",
+                        "mimeType": "application/pdf",
+                        "children": [],
+                        "webViewLink": "https://drive.google.com/file/d/1hRgsKYbvTYyA4CJ9Ls8-U0f0qxOUQncD/preview",
+                        "webContentLink": "https://drive.google.com/uc?id=1hRgsKYbvTYyA4CJ9Ls8-U0f0qxOUQncD&export=download"
+                      },
+                      {
+                        "id": "1E0e550dRiAUxctHEOCFAYwWcmrpWJv3c",
+                        "name": "CC_Unit1_25_Class1.pptx",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                        "children": [],
+                        "webViewLink": "https://docs.google.com/presentation/d/1E0e550dRiAUxctHEOCFAYwWcmrpWJv3c/edit?usp=drivesdk&ouid=106728917203791654051&rtpof=true&sd=true",
+                        "webContentLink": "https://drive.google.com/uc?id=1E0e550dRiAUxctHEOCFAYwWcmrpWJv3c&export=download"
+                      },
+                      {
+                        "id": "1iouVjzgalQ8KfynvATFa-MlPOkySQ8R-",
+                        "name": "CC_Unit1_25_Class2.pptx",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                        "children": [],
+                        "webViewLink": "https://docs.google.com/presentation/d/1iouVjzgalQ8KfynvATFa-MlPOkySQ8R-/edit?usp=drivesdk&ouid=106728917203791654051&rtpof=true&sd=true",
+                        "webContentLink": "https://drive.google.com/uc?id=1iouVjzgalQ8KfynvATFa-MlPOkySQ8R-&export=download"
+                      },
+                      {
+                        "id": "1OVNWQO5vuXjgAWIZ5VwAMDokbXnRGnsX",
+                        "name": "CC_Unit1_25_Class3.pptx",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                        "children": [],
+                        "webViewLink": "https://docs.google.com/presentation/d/1OVNWQO5vuXjgAWIZ5VwAMDokbXnRGnsX/edit?usp=drivesdk&ouid=106728917203791654051&rtpof=true&sd=true",
+                        "webContentLink": "https://drive.google.com/uc?id=1OVNWQO5vuXjgAWIZ5VwAMDokbXnRGnsX&export=download"
+                      },
+                      {
+                        "id": "1v3DiCXd-B189k4qGtHaLe2v39E3Oby8K",
+                        "name": "CC_Unit1_25_Class4.pptx",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                        "children": [],
+                        "webViewLink": "https://docs.google.com/presentation/d/1v3DiCXd-B189k4qGtHaLe2v39E3Oby8K/edit?usp=drivesdk&ouid=106728917203791654051&rtpof=true&sd=true",
+                        "webContentLink": "https://drive.google.com/uc?id=1v3DiCXd-B189k4qGtHaLe2v39E3Oby8K&export=download"
+                      },
+                      {
+                        "id": "1IpZEg6CxKfTRhYZp3WuTweg7O4D8TlTg",
+                        "name": "CC_Unit1_25_Class5.pptx",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                        "children": [],
+                        "webViewLink": "https://docs.google.com/presentation/d/1IpZEg6CxKfTRhYZp3WuTweg7O4D8TlTg/edit?usp=drivesdk&ouid=106728917203791654051&rtpof=true&sd=true",
+                        "webContentLink": "https://drive.google.com/uc?id=1IpZEg6CxKfTRhYZp3WuTweg7O4D8TlTg&export=download"
+                      },
+                      {
+                        "id": "1G9cKRUari6CHIrFQSLo0bAZOx7Tv420i",
+                        "name": "UNIT 1 PPT.pdf",
+                        "mimeType": "application/pdf",
+                        "children": [],
+                        "webViewLink": "https://drive.google.com/file/d/1G9cKRUari6CHIrFQSLo0bAZOx7Tv420i/preview",
+                        "webContentLink": "https://drive.google.com/uc?id=1G9cKRUari6CHIrFQSLo0bAZOx7Tv420i&export=download"
+                      },
+                      {
+                        "id": "1xZXJhgkevsyZfR95C7jU3g9t7y8YFLBl",
+                        "name": "unit 1.pdf",
+                        "mimeType": "application/pdf",
+                        "children": [],
+                        "webViewLink": "https://drive.google.com/file/d/1xZXJhgkevsyZfR95C7jU3g9t7y8YFLBl/preview",
+                        "webContentLink": "https://drive.google.com/uc?id=1xZXJhgkevsyZfR95C7jU3g9t7y8YFLBl&export=download"
+                      },
+                      {
+                        "id": "1KDX4ApkzsTFCKv6Q8rhJfmIl0SP-zQ9J",
+                        "name": "Unit-1 Ramakanth.pdf",
+                        "mimeType": "application/pdf",
+                        "children": [],
+                        "webViewLink": "https://drive.google.com/file/d/1KDX4ApkzsTFCKv6Q8rhJfmIl0SP-zQ9J/preview",
+                        "webContentLink": "https://drive.google.com/uc?id=1KDX4ApkzsTFCKv6Q8rhJfmIl0SP-zQ9J&export=download"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "1gsztlLzZpT7j4iWWn6AmPQD_sGbt1x-M",
+                    "name": "Unit 2",
+                    "mimeType": "application/vnd.google-apps.folder",
+                    "children": [
+                      {
+                        "id": "1BTrU7UEaIHkEMyK7aDejzIz-iyPoF0dP",
+                        "name": ".DS_Store",
+                        "mimeType": "application/octet-stream",
+                        "children": [],
+                        "webViewLink": "https://drive.google.com/file/d/1BTrU7UEaIHkEMyK7aDejzIz-iyPoF0dP/preview",
+                        "webContentLink": "https://drive.google.com/uc?id=1BTrU7UEaIHkEMyK7aDejzIz-iyPoF0dP&export=download"
+                      },
+                      {
+                        "id": "1KJAef8onipvPSSHKWN5TKjZl1ll-oceB",
+                        "name": "Unit 2 Presentation.pdf",
+                        "mimeType": "application/pdf",
+                        "children": [],
+                        "webViewLink": "https://drive.google.com/file/d/1KJAef8onipvPSSHKWN5TKjZl1ll-oceB/preview",
+                        "webContentLink": "https://drive.google.com/uc?id=1KJAef8onipvPSSHKWN5TKjZl1ll-oceB&export=download"
+                      },
+                      {
+                        "id": "1QgdrsrOgFF2jup2hpiRsXD7_ZCo1NTRN",
+                        "name": "unit 2.pdf",
+                        "mimeType": "application/pdf",
+                        "children": [],
+                        "webViewLink": "https://drive.google.com/file/d/1QgdrsrOgFF2jup2hpiRsXD7_ZCo1NTRN/preview",
+                        "webContentLink": "https://drive.google.com/uc?id=1QgdrsrOgFF2jup2hpiRsXD7_ZCo1NTRN&export=download"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "1p8UGHTCqML-Yi5bXJwVggdNRP9xeFCet",
+                    "name": "UNIT 3",
+                    "mimeType": "application/vnd.google-apps.folder",
+                    "children": [
+                      {
+                        "id": "1Y-mUhK-0qze55buD1uC1YzF0bTI-w4Jc",
+                        "name": ".DS_Store",
+                        "mimeType": "application/octet-stream",
+                        "children": [],
+                        "webViewLink": "https://drive.google.com/file/d/1Y-mUhK-0qze55buD1uC1YzF0bTI-w4Jc/preview",
+                        "webContentLink": "https://drive.google.com/uc?id=1Y-mUhK-0qze55buD1uC1YzF0bTI-w4Jc&export=download"
+                      },
+                      {
+                        "id": "19urXGZ3PPf61-iKt-yJARpBDdvys2x-t",
+                        "name": "UNIT 3 PPT.pdf",
+                        "mimeType": "application/pdf",
+                        "children": [],
+                        "webViewLink": "https://drive.google.com/file/d/19urXGZ3PPf61-iKt-yJARpBDdvys2x-t/preview",
+                        "webContentLink": "https://drive.google.com/uc?id=19urXGZ3PPf61-iKt-yJARpBDdvys2x-t&export=download"
+                      },
+                      {
+                        "id": "1bFLbeM1dx6JEEuHb_7lj4L1TuUOLRhFd",
+                        "name": "unit 3.pdf",
+                        "mimeType": "application/pdf",
+                        "children": [],
+                        "webViewLink": "https://drive.google.com/file/d/1bFLbeM1dx6JEEuHb_7lj4L1TuUOLRhFd/preview",
+                        "webContentLink": "https://drive.google.com/uc?id=1bFLbeM1dx6JEEuHb_7lj4L1TuUOLRhFd&export=download"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "1aUhTRDTLiY_j91yfvl7jH7Gy7ChZ2AAn",
+                    "name": "UNIT 4",
+                    "mimeType": "application/vnd.google-apps.folder",
+                    "children": [
+                      {
+                        "id": "1n8LQbHKpB1-ClmQwC3Jdy0AsJvQOPvAM",
+                        "name": "pdfU4.pdf",
+                        "mimeType": "application/pdf",
+                        "children": [],
+                        "webViewLink": "https://drive.google.com/file/d/1n8LQbHKpB1-ClmQwC3Jdy0AsJvQOPvAM/preview",
+                        "webContentLink": "https://drive.google.com/uc?id=1n8LQbHKpB1-ClmQwC3Jdy0AsJvQOPvAM&export=download"
+                      },
+                      {
+                        "id": "1kidtx4NuEPnBDej2l_1gGKNbR1MaQ0Yq",
+                        "name": "UNIT 4 CLOUD .pdf",
+                        "mimeType": "application/pdf",
+                        "children": [],
+                        "webViewLink": "https://drive.google.com/file/d/1kidtx4NuEPnBDej2l_1gGKNbR1MaQ0Yq/preview",
+                        "webContentLink": "https://drive.google.com/uc?id=1kidtx4NuEPnBDej2l_1gGKNbR1MaQ0Yq&export=download"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "1Q_BlLIkAFOOBttOZDwLqWt8xxL8uepbg",
+                    "name": "UNIT 5",
+                    "mimeType": "application/vnd.google-apps.folder",
+                    "children": [
+                      {
+                        "id": "1sBMnlQqrbZFgmfYWbTsMaiW5kAFXrjiv",
+                        "name": "pdfU5.pdf",
+                        "mimeType": "application/pdf",
+                        "children": [],
+                        "webViewLink": "https://drive.google.com/file/d/1sBMnlQqrbZFgmfYWbTsMaiW5kAFXrjiv/preview",
+                        "webContentLink": "https://drive.google.com/uc?id=1sBMnlQqrbZFgmfYWbTsMaiW5kAFXrjiv&export=download"
+                      },
+                      {
+                        "id": "1TEDqMMLLrKZtsk82VJfQPWlFIwTc_Unw",
+                        "name": "UNIT 5 CLOUD.pdf",
+                        "mimeType": "application/pdf",
+                        "children": [],
+                        "webViewLink": "https://drive.google.com/file/d/1TEDqMMLLrKZtsk82VJfQPWlFIwTc_Unw/preview",
+                        "webContentLink": "https://drive.google.com/uc?id=1TEDqMMLLrKZtsk82VJfQPWlFIwTc_Unw&export=download"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "1QTB7s0MGGoqytNd7iDpbiGiqkBlvrA9m",
+                "name": "NLP",
+                "mimeType": "application/vnd.google-apps.folder",
+                "children": [
+                  {
+                    "id": "1iFivPCHexBYtKpEpmIbOIdJqE_Ab-ZIy",
+                    "name": "NLP_ UNIT-3.pdf",
+                    "mimeType": "application/pdf",
+                    "children": [],
+                    "webViewLink": "https://drive.google.com/file/d/1iFivPCHexBYtKpEpmIbOIdJqE_Ab-ZIy/preview",
+                    "webContentLink": "https://drive.google.com/uc?id=1iFivPCHexBYtKpEpmIbOIdJqE_Ab-ZIy&export=download"
+                  },
+                  {
+                    "id": "1qh7nhhJA4Mjn3J6NFrt2YZXox_412-XJ",
+                    "name": "NLP_UNIT-1.pdf",
+                    "mimeType": "application/pdf",
+                    "children": [],
+                    "webViewLink": "https://drive.google.com/file/d/1qh7nhhJA4Mjn3J6NFrt2YZXox_412-XJ/preview",
+                    "webContentLink": "https://drive.google.com/uc?id=1qh7nhhJA4Mjn3J6NFrt2YZXox_412-XJ&export=download"
+                  },
+                  {
+                    "id": "1781ZctXPmWSrauAry2GLsqO5me-rWWT4",
+                    "name": "NLP_UNIT-2.pdf",
+                    "mimeType": "application/pdf",
+                    "children": [],
+                    "webViewLink": "https://drive.google.com/file/d/1781ZctXPmWSrauAry2GLsqO5me-rWWT4/preview",
+                    "webContentLink": "https://drive.google.com/uc?id=1781ZctXPmWSrauAry2GLsqO5me-rWWT4&export=download"
+                  }
+                ]
+              },
+              {
+                "id": "1Tp4TvB8S_hYcShlBZ7eLVAq2lRVh8MGx",
+                "name": "QUANTUM COMPUTING",
+                "mimeType": "application/vnd.google-apps.folder",
+                "children": [
+                  {
+                    "id": "1zYB2U4KlM9Ah3H5zSkP6i8_8eWTywrzw",
+                    "name": ".DS_Store",
+                    "mimeType": "application/octet-stream",
+                    "children": [],
+                    "webViewLink": "https://drive.google.com/file/d/1zYB2U4KlM9Ah3H5zSkP6i8_8eWTywrzw/preview",
+                    "webContentLink": "https://drive.google.com/uc?id=1zYB2U4KlM9Ah3H5zSkP6i8_8eWTywrzw&export=download"
+                  },
+                  {
+                    "id": "1EdOYUOVB9XjuGcCOHaGBzASt3s15JYBq",
+                    "name": "TB",
+                    "mimeType": "application/vnd.google-apps.folder",
+                    "children": [
+                      {
+                        "id": "11yPyXbmBfOdLrrQJ9R7mG_6zWMo8m5NX",
+                        "name": "TextBook.pdf",
+                        "mimeType": "application/pdf",
+                        "children": [],
+                        "webViewLink": "https://drive.google.com/file/d/11yPyXbmBfOdLrrQJ9R7mG_6zWMo8m5NX/preview",
+                        "webContentLink": "https://drive.google.com/uc?id=11yPyXbmBfOdLrrQJ9R7mG_6zWMo8m5NX&export=download"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "1IUBWIGd3eUHMa633iU9s19yHDHeZyHKH",
+                    "name": "Unit1",
+                    "mimeType": "application/vnd.google-apps.folder",
+                    "children": [
+                      {
+                        "id": "1ovRd7Fw_Ih0Wu8zUXop4efuvcp_cuM1f",
+                        "name": "Important Points – Unit 1 .pdf",
+                        "mimeType": "application/pdf",
+                        "children": [],
+                        "webViewLink": "https://drive.google.com/file/d/1ovRd7Fw_Ih0Wu8zUXop4efuvcp_cuM1f/preview",
+                        "webContentLink": "https://drive.google.com/uc?id=1ovRd7Fw_Ih0Wu8zUXop4efuvcp_cuM1f&export=download"
+                      },
+                      {
+                        "id": "1RHr2tuPArMUp6GOM3nVDg1jDZtDvXwqn",
+                        "name": "Introduction Class.pdf",
+                        "mimeType": "application/pdf",
+                        "children": [],
+                        "webViewLink": "https://drive.google.com/file/d/1RHr2tuPArMUp6GOM3nVDg1jDZtDvXwqn/preview",
+                        "webContentLink": "https://drive.google.com/uc?id=1RHr2tuPArMUp6GOM3nVDg1jDZtDvXwqn&export=download"
+                      },
+                      {
+                        "id": "1W_S1Waljz5G_bSZVI2TNXjnFH4B6g9CK",
+                        "name": "Problems on BB84.pdf",
+                        "mimeType": "application/pdf",
+                        "children": [],
+                        "webViewLink": "https://drive.google.com/file/d/1W_S1Waljz5G_bSZVI2TNXjnFH4B6g9CK/preview",
+                        "webContentLink": "https://drive.google.com/uc?id=1W_S1Waljz5G_bSZVI2TNXjnFH4B6g9CK&export=download"
+                      },
+                      {
+                        "id": "16ntZ8HONxcIY0ee6k9uVxxJspMTZq23S",
+                        "name": "Unit 1 Question Bank.pdf",
+                        "mimeType": "application/pdf",
+                        "children": [],
+                        "webViewLink": "https://drive.google.com/file/d/16ntZ8HONxcIY0ee6k9uVxxJspMTZq23S/preview",
+                        "webContentLink": "https://drive.google.com/uc?id=16ntZ8HONxcIY0ee6k9uVxxJspMTZq23S&export=download"
+                      },
+                      {
+                        "id": "1Fbx5xUkjz-i_5y9Cr32lgf5PB8O1QsHs",
+                        "name": "Unit-1 PPT.pdf",
+                        "mimeType": "application/pdf",
+                        "children": [],
+                        "webViewLink": "https://drive.google.com/file/d/1Fbx5xUkjz-i_5y9Cr32lgf5PB8O1QsHs/preview",
+                        "webContentLink": "https://drive.google.com/uc?id=1Fbx5xUkjz-i_5y9Cr32lgf5PB8O1QsHs&export=download"
+                      },
+                      {
+                        "id": "1bAVecrLwxOecF9nOJz7fL4mTjzovqqc_",
+                        "name": "Unit-1-Chapter 2 Q&A.pdf",
+                        "mimeType": "application/pdf",
+                        "children": [],
+                        "webViewLink": "https://drive.google.com/file/d/1bAVecrLwxOecF9nOJz7fL4mTjzovqqc_/preview",
+                        "webContentLink": "https://drive.google.com/uc?id=1bAVecrLwxOecF9nOJz7fL4mTjzovqqc_&export=download"
+                      },
+                      {
+                        "id": "10burDStQs1dVrq3qR8ciJGGRGxZ18EO-",
+                        "name": "Unit1 Answers.pdf",
+                        "mimeType": "application/pdf",
+                        "children": [],
+                        "webViewLink": "https://drive.google.com/file/d/10burDStQs1dVrq3qR8ciJGGRGxZ18EO-/preview",
+                        "webContentLink": "https://drive.google.com/uc?id=10burDStQs1dVrq3qR8ciJGGRGxZ18EO-&export=download"
+                      },
+                      {
+                        "id": "1k4-ksOT617fKv1UROxd20T4Ppp9gNwwG",
+                        "name": "Unit1-Chapter 2 QB.pdf",
+                        "mimeType": "application/pdf",
+                        "children": [],
+                        "webViewLink": "https://drive.google.com/file/d/1k4-ksOT617fKv1UROxd20T4Ppp9gNwwG/preview",
+                        "webContentLink": "https://drive.google.com/uc?id=1k4-ksOT617fKv1UROxd20T4Ppp9gNwwG&export=download"
+                      }
+                    ]
                   }
                 ]
               }
